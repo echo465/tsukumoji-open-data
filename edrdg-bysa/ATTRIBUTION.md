@@ -35,7 +35,7 @@ text.
 > are the property of the Electronic Dictionary Research and Development
 > Group, and are used in conformance with the Group's licence
 > (edrdg.org/edrdg/licence.html). Our N5 extracts are available under
-> CC BY-SA 4.0 at [public repo URL — set before launch].
+> CC BY-SA 4.0 at https://github.com/echo465/tsukumoji-open-data.
 
 ---
 *Kanagame content pipeline — ATTRIBUTION.md — v0.3.0 — end of file*

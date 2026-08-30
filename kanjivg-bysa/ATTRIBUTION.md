@@ -36,8 +36,7 @@ identifiers and contains no KanjiVG-derived geometry.
 
 > Kana and kanji stroke data © Ulrich Apel, from the KanjiVG project
 > (kanjivg.tagaini.net), CC BY-SA 3.0. Our stroke templates derived from
-> KanjiVG are available under the same licence at [public repo URL — set
-> before launch].
+> KanjiVG are available under the same licence at https://github.com/echo465/tsukumoji-open-data.
 
 ---
 *Kanagame content pipeline — ATTRIBUTION.md — v0.3.0 — end of file*
