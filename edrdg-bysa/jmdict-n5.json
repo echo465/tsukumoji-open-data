@@ -1,0 +1,6096 @@
+{
+ "_meta": {
+  "generator": "build-kana-db.py v0.4.0 (Kanagame content pipeline)",
+  "license": "CC BY-SA 4.0 (EDRDG licence)",
+  "attribution": "This extract uses the JMdict dictionary file. That file is the property of the Electronic Dictionary Research and Development Group, and is used in conformance with the Group's licence (https://www.edrdg.org/edrdg/licence.html). See EDRDG-LICENCE.txt and ATTRIBUTION.md in this directory. As an adaptation of a CC BY-SA 4.0 work this file is itself CC BY-SA 4.0.",
+  "source": "JMdict_e (English-only JMdict)",
+  "count": 300,
+  "isolationNote": "data/content/words.json carries HOUSE-AUTHORED glosses and references entries here by opaque word_<seq> id only; JMdict gloss text is not copied outside this directory."
+ },
+ "words": {
+  "word_1160790": {
+   "seq": 1160790,
+   "surface": "一",
+   "reading": "いち",
+   "senses": [
+    [
+     "one",
+     "1"
+    ],
+    [
+     "best"
+    ],
+    [
+     "first",
+     "foremost"
+    ],
+    [
+     "beginning",
+     "start"
+    ],
+    [
+     "a (single)",
+     "one (of many)"
+    ],
+    [
+     "ace"
+    ],
+    [
+     "bottom string (on a shamisen, etc.)"
+    ]
+   ]
+  },
+  "word_1160820": {
+   "seq": 1160820,
+   "surface": "一つ",
+   "reading": "ひとつ",
+   "senses": [
+    [
+     "one"
+    ],
+    [
+     "for one thing"
+    ],
+    [
+     "only"
+    ],
+    [
+     "(not) even"
+    ],
+    [
+     "just (e.g. \"just try it\")"
+    ],
+    [
+     "some kind of",
+     "one type of"
+    ]
+   ]
+  },
+  "word_1576150": {
+   "seq": 1576150,
+   "surface": "一人",
+   "reading": "ひとり",
+   "senses": [
+    [
+     "one person"
+    ],
+    [
+     "being alone",
+     "being by oneself"
+    ],
+    [
+     "being single",
+     "being unmarried"
+    ],
+    [
+     "by oneself",
+     "alone"
+    ],
+    [
+     "just",
+     "only",
+     "simply"
+    ]
+   ]
+  },
+  "word_1162120": {
+   "seq": 1162120,
+   "surface": "一月",
+   "reading": "いちがつ",
+   "senses": [
+    [
+     "January"
+    ],
+    [
+     "first month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1576100": {
+   "seq": 1576100,
+   "surface": "一時",
+   "reading": "いちじ",
+   "senses": [
+    [
+     "one o'clock"
+    ],
+    [
+     "once",
+     "at one time",
+     "formerly",
+     "before"
+    ],
+    [
+     "for a time",
+     "for a while",
+     "for the time being",
+     "for the moment",
+     "temporarily"
+    ],
+    [
+     "a time",
+     "one time",
+     "once"
+    ]
+   ]
+  },
+  "word_2121800": {
+   "seq": 2121800,
+   "surface": "一万",
+   "reading": "いちまん",
+   "senses": [
+    [
+     "10,000",
+     "ten thousand",
+     "10^4"
+    ]
+   ]
+  },
+  "word_1461140": {
+   "seq": 1461140,
+   "surface": "二",
+   "reading": "に",
+   "senses": [
+    [
+     "two",
+     "2"
+    ]
+   ]
+  },
+  "word_1461160": {
+   "seq": 1461160,
+   "surface": "二つ",
+   "reading": "ふたつ",
+   "senses": [
+    [
+     "two"
+    ]
+   ]
+  },
+  "word_1582670": {
+   "seq": 1582670,
+   "surface": "二人",
+   "reading": "ふたり",
+   "senses": [
+    [
+     "two persons",
+     "two people",
+     "pair",
+     "couple"
+    ]
+   ]
+  },
+  "word_1461560": {
+   "seq": 1461560,
+   "surface": "二月",
+   "reading": "にがつ",
+   "senses": [
+    [
+     "February"
+    ],
+    [
+     "second month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1462900": {
+   "seq": 1462900,
+   "surface": "二日",
+   "reading": "ふつか",
+   "senses": [
+    [
+     "2nd day of the month"
+    ],
+    [
+     "two days"
+    ]
+   ]
+  },
+  "word_1579350": {
+   "seq": 1579350,
+   "surface": "三",
+   "reading": "さん",
+   "senses": [
+    [
+     "three",
+     "3"
+    ]
+   ]
+  },
+  "word_1299740": {
+   "seq": 1299740,
+   "surface": "三つ",
+   "reading": "みっつ",
+   "senses": [
+    [
+     "three"
+    ],
+    [
+     "three years of age"
+    ]
+   ]
+  },
+  "word_1301330": {
+   "seq": 1301330,
+   "surface": "三日",
+   "reading": "みっか",
+   "senses": [
+    [
+     "3rd day of the month"
+    ],
+    [
+     "three days"
+    ]
+   ]
+  },
+  "word_1300250": {
+   "seq": 1300250,
+   "surface": "三月",
+   "reading": "さんがつ",
+   "senses": [
+    [
+     "March"
+    ],
+    [
+     "third month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1579470": {
+   "seq": 1579470,
+   "surface": "四",
+   "reading": "よん",
+   "senses": [
+    [
+     "four",
+     "4"
+    ]
+   ]
+  },
+  "word_1307040": {
+   "seq": 1307040,
+   "surface": "四つ",
+   "reading": "よっつ",
+   "senses": [
+    [
+     "four",
+     "4"
+    ],
+    [
+     "four years of age"
+    ],
+    [
+     "ten o'clock (in the old time system)"
+    ],
+    [
+     "burakumin"
+    ],
+    [
+     "cross grips"
+    ]
+   ]
+  },
+  "word_1307320": {
+   "seq": 1307320,
+   "surface": "四日",
+   "reading": "よっか",
+   "senses": [
+    [
+     "4th day of the month"
+    ],
+    [
+     "four days"
+    ]
+   ]
+  },
+  "word_1307180": {
+   "seq": 1307180,
+   "surface": "四月",
+   "reading": "しがつ",
+   "senses": [
+    [
+     "April"
+    ],
+    [
+     "fourth month in the lunar calendar"
+    ]
+   ]
+  },
+  "word_1307230": {
+   "seq": 1307230,
+   "surface": "四時",
+   "reading": "よじ",
+   "senses": [
+    [
+     "four o'clock"
+    ]
+   ]
+  },
+  "word_1268060": {
+   "seq": 1268060,
+   "surface": "五",
+   "reading": "ご",
+   "senses": [
+    [
+     "five",
+     "5"
+    ]
+   ]
+  },
+  "word_1268070": {
+   "seq": 1268070,
+   "surface": "五つ",
+   "reading": "いつつ",
+   "senses": [
+    [
+     "five"
+    ],
+    [
+     "five years of age"
+    ],
+    [
+     "eight o'clock (old time system)"
+    ]
+   ]
+  },
+  "word_1268570": {
+   "seq": 1268570,
+   "surface": "五日",
+   "reading": "いつか",
+   "senses": [
+    [
+     "5th day of the month"
+    ],
+    [
+     "five days"
+    ]
+   ]
+  },
+  "word_1268170": {
+   "seq": 1268170,
+   "surface": "五月",
+   "reading": "ごがつ",
+   "senses": [
+    [
+     "May"
+    ],
+    [
+     "fifth month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1585310": {
+   "seq": 1585310,
+   "surface": "六",
+   "reading": "ろく",
+   "senses": [
+    [
+     "six",
+     "6"
+    ]
+   ]
+  },
+  "word_1585315": {
+   "seq": 1585315,
+   "surface": "六つ",
+   "reading": "むっつ",
+   "senses": [
+    [
+     "six"
+    ],
+    [
+     "six years of age"
+    ],
+    [
+     "six o'clock (old time system)"
+    ]
+   ]
+  },
+  "word_1561470": {
+   "seq": 1561470,
+   "surface": "六日",
+   "reading": "むいか",
+   "senses": [
+    [
+     "6th day of the month"
+    ],
+    [
+     "six days"
+    ]
+   ]
+  },
+  "word_1561330": {
+   "seq": 1561330,
+   "surface": "六月",
+   "reading": "ろくがつ",
+   "senses": [
+    [
+     "June"
+    ],
+    [
+     "sixth month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1319210": {
+   "seq": 1319210,
+   "surface": "七",
+   "reading": "なな",
+   "senses": [
+    [
+     "seven"
+    ]
+   ]
+  },
+  "word_1319220": {
+   "seq": 1319220,
+   "surface": "七つ",
+   "reading": "ななつ",
+   "senses": [
+    [
+     "seven"
+    ],
+    [
+     "seven years of age"
+    ],
+    [
+     "four o'clock (old time system)"
+    ]
+   ]
+  },
+  "word_1579630": {
+   "seq": 1579630,
+   "surface": "七日",
+   "reading": "なのか",
+   "senses": [
+    [
+     "7th day of the month"
+    ],
+    [
+     "seven days"
+    ]
+   ]
+  },
+  "word_1319280": {
+   "seq": 1319280,
+   "surface": "七月",
+   "reading": "しちがつ",
+   "senses": [
+    [
+     "July"
+    ],
+    [
+     "seventh month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1319310": {
+   "seq": 1319310,
+   "surface": "七五三",
+   "reading": "しちごさん",
+   "senses": [
+    [
+     "shichi-go-san",
+     "7-5-3 day",
+     "festival day for children aged 7, 5 and 3 held on or around November 15"
+    ],
+    [
+     "lucky numbers 7, 5 and 3"
+    ]
+   ]
+  },
+  "word_1583090": {
+   "seq": 1583090,
+   "surface": "八",
+   "reading": "はち",
+   "senses": [
+    [
+     "eight",
+     "8"
+    ]
+   ]
+  },
+  "word_1583095": {
+   "seq": 1583095,
+   "surface": "八つ",
+   "reading": "やっつ",
+   "senses": [
+    [
+     "eight"
+    ],
+    [
+     "eight years of age"
+    ],
+    [
+     "two o'clock (old time system)"
+    ]
+   ]
+  },
+  "word_1476920": {
+   "seq": 1476920,
+   "surface": "八日",
+   "reading": "ようか",
+   "senses": [
+    [
+     "8th day of the month"
+    ],
+    [
+     "eight days"
+    ]
+   ]
+  },
+  "word_1476730": {
+   "seq": 1476730,
+   "surface": "八月",
+   "reading": "はちがつ",
+   "senses": [
+    [
+     "August"
+    ],
+    [
+     "eighth month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1578150": {
+   "seq": 1578150,
+   "surface": "九",
+   "reading": "きゅう",
+   "senses": [
+    [
+     "nine",
+     "9"
+    ]
+   ]
+  },
+  "word_1243600": {
+   "seq": 1243600,
+   "surface": "九つ",
+   "reading": "ここのつ",
+   "senses": [
+    [
+     "nine"
+    ],
+    [
+     "nine years of age"
+    ],
+    [
+     "twelve o'clock (old time system)"
+    ]
+   ]
+  },
+  "word_1243850": {
+   "seq": 1243850,
+   "surface": "九日",
+   "reading": "ここのか",
+   "senses": [
+    [
+     "9th day of the month"
+    ],
+    [
+     "nine days"
+    ]
+   ]
+  },
+  "word_1243660": {
+   "seq": 1243660,
+   "surface": "九月",
+   "reading": "くがつ",
+   "senses": [
+    [
+     "September"
+    ],
+    [
+     "ninth month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_2845349": {
+   "seq": 2845349,
+   "surface": "九時",
+   "reading": "くじ",
+   "senses": [
+    [
+     "nine o'clock"
+    ]
+   ]
+  },
+  "word_1578160": {
+   "seq": 1578160,
+   "surface": "九十",
+   "reading": "きゅうじゅう",
+   "senses": [
+    [
+     "ninety",
+     "90"
+    ]
+   ]
+  },
+  "word_1579840": {
+   "seq": 1579840,
+   "surface": "十",
+   "reading": "じゅう",
+   "senses": [
+    [
+     "ten",
+     "10"
+    ],
+    [
+     "ten years of age"
+    ],
+    [
+     "book containing a collection of poems"
+    ]
+   ]
+  },
+  "word_1579840_2": {
+   "seq": 1579840,
+   "surface": "十",
+   "reading": "とお",
+   "senses": [
+    [
+     "ten",
+     "10"
+    ],
+    [
+     "ten years of age"
+    ],
+    [
+     "book containing a collection of poems"
+    ]
+   ]
+  },
+  "word_1335000": {
+   "seq": 1335000,
+   "surface": "十日",
+   "reading": "とおか",
+   "senses": [
+    [
+     "10th day of the month"
+    ],
+    [
+     "ten days"
+    ]
+   ]
+  },
+  "word_1334570": {
+   "seq": 1334570,
+   "surface": "十月",
+   "reading": "じゅうがつ",
+   "senses": [
+    [
+     "October"
+    ],
+    [
+     "tenth month of the lunar calendar"
+    ]
+   ]
+  },
+  "word_1488000": {
+   "seq": 1488000,
+   "surface": "百",
+   "reading": "ひゃく",
+   "senses": [
+    [
+     "hundred",
+     "100"
+    ]
+   ]
+  },
+  "word_1488500": {
+   "seq": 1488500,
+   "surface": "百万",
+   "reading": "ひゃくまん",
+   "senses": [
+    [
+     "1,000,000",
+     "one million",
+     "million"
+    ],
+    [
+     "many"
+    ]
+   ]
+  },
+  "word_2839866": {
+   "seq": 2839866,
+   "surface": "百円",
+   "reading": "ひゃくえん",
+   "senses": [
+    [
+     "100 yen"
+    ]
+   ]
+  },
+  "word_1388740": {
+   "seq": 1388740,
+   "surface": "千",
+   "reading": "せん",
+   "senses": [
+    [
+     "thousand",
+     "1,000"
+    ]
+   ]
+  },
+  "word_1388780": {
+   "seq": 1388780,
+   "surface": "千円",
+   "reading": "せんえん",
+   "senses": [
+    [
+     "1000 yen"
+    ]
+   ]
+  },
+  "word_1584460": {
+   "seq": 1584460,
+   "surface": "万",
+   "reading": "まん",
+   "senses": [
+    [
+     "10,000",
+     "ten thousand"
+    ],
+    [
+     "myriad"
+    ],
+    [
+     "everything",
+     "all"
+    ],
+    [
+     "various"
+    ]
+   ]
+  },
+  "word_1175570": {
+   "seq": 1175570,
+   "surface": "円",
+   "reading": "えん",
+   "senses": [
+    [
+     "yen (currency of Japan)"
+    ],
+    [
+     "circle"
+    ]
+   ]
+  },
+  "word_1468060": {
+   "seq": 1468060,
+   "surface": "年",
+   "reading": "とし",
+   "senses": [
+    [
+     "year"
+    ],
+    [
+     "age",
+     "years"
+    ],
+    [
+     "past one's prime",
+     "old age"
+    ]
+   ]
+  },
+  "word_1584360": {
+   "seq": 1584360,
+   "surface": "毎年",
+   "reading": "まいとし",
+   "senses": [
+    [
+     "every year",
+     "yearly",
+     "annually"
+    ]
+   ]
+  },
+  "word_1548220": {
+   "seq": 1548220,
+   "surface": "来年",
+   "reading": "らいねん",
+   "senses": [
+    [
+     "next year"
+    ]
+   ]
+  },
+  "word_1362290": {
+   "seq": 1362290,
+   "surface": "新年",
+   "reading": "しんねん",
+   "senses": [
+    [
+     "New Year"
+    ]
+   ]
+  },
+  "word_1231690": {
+   "seq": 1231690,
+   "surface": "去年",
+   "reading": "きょねん",
+   "senses": [
+    [
+     "last year"
+    ]
+   ]
+  },
+  "word_1255430": {
+   "seq": 1255430,
+   "surface": "月",
+   "reading": "つき",
+   "senses": [
+    [
+     "Moon"
+    ],
+    [
+     "month"
+    ],
+    [
+     "moonlight"
+    ],
+    [
+     "(a) moon",
+     "natural satellite"
+    ]
+   ]
+  },
+  "word_1255630": {
+   "seq": 1255630,
+   "surface": "月見",
+   "reading": "つきみ",
+   "senses": [
+    [
+     "moon viewing (esp. during the eight month of the lunar calendar)"
+    ]
+   ]
+  },
+  "word_1584350": {
+   "seq": 1584350,
+   "surface": "毎月",
+   "reading": "まいつき",
+   "senses": [
+    [
+     "every month",
+     "each month",
+     "monthly"
+    ]
+   ]
+  },
+  "word_1547900": {
+   "seq": 1547900,
+   "surface": "来月",
+   "reading": "らいげつ",
+   "senses": [
+    [
+     "next month"
+    ]
+   ]
+  },
+  "word_1289100": {
+   "seq": 1289100,
+   "surface": "今月",
+   "reading": "こんげつ",
+   "senses": [
+    [
+     "this month"
+    ]
+   ]
+  },
+  "word_1463770": {
+   "seq": 1463770,
+   "surface": "日",
+   "reading": "ひ",
+   "senses": [
+    [
+     "day",
+     "days"
+    ],
+    [
+     "sun",
+     "sunshine",
+     "sunlight"
+    ],
+    [
+     "(the) day",
+     "daytime",
+     "daylight"
+    ],
+    [
+     "date",
+     "deadline"
+    ],
+    [
+     "(past) days",
+     "time (e.g. of one's childhood)"
+    ],
+    [
+     "case (esp. unfortunate)",
+     "event"
+    ]
+   ]
+  },
+  "word_1602120": {
+   "seq": 1602120,
+   "surface": "日々",
+   "reading": "ひび",
+   "senses": [
+    [
+     "daily",
+     "everyday"
+    ],
+    [
+     "days (e.g. of one's youth)"
+    ],
+    [
+     "every day",
+     "day after day",
+     "day by day",
+     "from day to day"
+    ]
+   ]
+  },
+  "word_1524720": {
+   "seq": 1524720,
+   "surface": "毎日",
+   "reading": "まいにち",
+   "senses": [
+    [
+     "every day",
+     "daily"
+    ]
+   ]
+  },
+  "word_1464900": {
+   "seq": 1464900,
+   "surface": "日曜日",
+   "reading": "にちようび",
+   "senses": [
+    [
+     "Sunday"
+    ]
+   ]
+  },
+  "word_1315840": {
+   "seq": 1315840,
+   "surface": "時",
+   "reading": "とき",
+   "senses": [
+    [
+     "time",
+     "hour",
+     "moment"
+    ],
+    [
+     "occasion",
+     "case"
+    ],
+    [
+     "chance",
+     "opportunity",
+     "season"
+    ],
+    [
+     "the times",
+     "the age",
+     "the day"
+    ],
+    [
+     "tense"
+    ]
+   ]
+  },
+  "word_1598680": {
+   "seq": 1598680,
+   "surface": "時々",
+   "reading": "ときどき",
+   "senses": [
+    [
+     "sometimes",
+     "occasionally",
+     "at times",
+     "from time to time",
+     "now and then",
+     "once in a while",
+     "at intervals"
+    ],
+    [
+     "seasonal",
+     "of the season",
+     "appropriate (for the season or occasion)"
+    ]
+   ]
+  },
+  "word_1315920": {
+   "seq": 1315920,
+   "surface": "時間",
+   "reading": "じかん",
+   "senses": [
+    [
+     "time"
+    ],
+    [
+     "hour"
+    ],
+    [
+     "period",
+     "class",
+     "lesson"
+    ]
+   ]
+  },
+  "word_1188770": {
+   "seq": 1188770,
+   "surface": "何時",
+   "reading": "なんじ",
+   "senses": [
+    [
+     "what time",
+     "which hour"
+    ]
+   ]
+  },
+  "word_1606560": {
+   "seq": 1606560,
+   "surface": "分かる",
+   "reading": "わかる",
+   "senses": [
+    [
+     "to understand",
+     "to comprehend",
+     "to grasp",
+     "to see",
+     "to get",
+     "to follow"
+    ],
+    [
+     "to become clear",
+     "to be known",
+     "to be discovered",
+     "to be realized (realised)",
+     "to be found out",
+     "to make sense"
+    ],
+    [
+     "I know!",
+     "I think so too!"
+    ]
+   ]
+  },
+  "word_1606600": {
+   "seq": 1606600,
+   "surface": "分かれる",
+   "reading": "わかれる",
+   "senses": [
+    [
+     "to branch",
+     "to fork",
+     "to diverge"
+    ],
+    [
+     "to separate",
+     "to split",
+     "to divide"
+    ],
+    [
+     "to disperse",
+     "to scatter"
+    ]
+   ]
+  },
+  "word_1479890": {
+   "seq": 1479890,
+   "surface": "半分",
+   "reading": "はんぶん",
+   "senses": [
+    [
+     "half"
+    ]
+   ]
+  },
+  "word_1335080": {
+   "seq": 1335080,
+   "surface": "十分",
+   "reading": "じゅうぶん",
+   "senses": [
+    [
+     "enough",
+     "sufficient",
+     "plenty",
+     "adequate",
+     "satisfactory"
+    ],
+    [
+     "sufficiently",
+     "fully",
+     "thoroughly",
+     "well",
+     "perfectly"
+    ],
+    [
+     "division into ten"
+    ]
+   ]
+  },
+  "word_1407980": {
+   "seq": 1407980,
+   "surface": "多分",
+   "reading": "たぶん",
+   "senses": [
+    [
+     "probably",
+     "likely",
+     "perhaps",
+     "maybe"
+    ],
+    [
+     "a lot of",
+     "much",
+     "many",
+     "considerable",
+     "large (amount)",
+     "generous"
+    ]
+   ]
+  },
+  "word_1222590": {
+   "seq": 1222590,
+   "surface": "気分",
+   "reading": "きぶん",
+   "senses": [
+    [
+     "feeling",
+     "mood"
+    ]
+   ]
+  },
+  "word_1478750": {
+   "seq": 1478750,
+   "surface": "半",
+   "reading": "はん",
+   "senses": [
+    [
+     "half",
+     "semi-",
+     "partial"
+    ],
+    [
+     "half-past"
+    ],
+    [
+     "odd number"
+    ],
+    [
+     "han (unit of land area, approx. 595.8 m^2)"
+    ]
+   ]
+  },
+  "word_1581140": {
+   "seq": 1581140,
+   "surface": "前半",
+   "reading": "ぜんはん",
+   "senses": [
+    [
+     "first half"
+    ]
+   ]
+  },
+  "word_1215230": {
+   "seq": 1215230,
+   "surface": "間",
+   "reading": "あいだ",
+   "senses": [
+    [
+     "space (between)",
+     "gap",
+     "interval",
+     "distance",
+     "stretch"
+    ],
+    [
+     "period of time (during, while)",
+     "duration",
+     "interval"
+    ],
+    [
+     "between (two parties or things)"
+    ],
+    [
+     "among (a group)"
+    ],
+    [
+     "relations (between)",
+     "relationship"
+    ],
+    [
+     "midpoint",
+     "average",
+     "halfway",
+     "middle ground"
+    ],
+    [
+     "due to",
+     "because of"
+    ]
+   ]
+  },
+  "word_1004690": {
+   "seq": 1004690,
+   "surface": "この間",
+   "reading": "このあいだ",
+   "senses": [
+    [
+     "the other day",
+     "lately",
+     "recently",
+     "during this period"
+    ],
+    [
+     "meanwhile",
+     "in the meantime"
+    ]
+   ]
+  },
+  "word_1366770": {
+   "seq": 1366770,
+   "surface": "人間",
+   "reading": "にんげん",
+   "senses": [
+    [
+     "human being",
+     "human",
+     "person",
+     "man",
+     "mankind",
+     "humankind"
+    ],
+    [
+     "character (of a person)"
+    ]
+   ]
+  },
+  "word_1163270": {
+   "seq": 1163270,
+   "surface": "一週間",
+   "reading": "いっしゅうかん",
+   "senses": [
+    [
+     "one week"
+    ]
+   ]
+  },
+  "word_1524690": {
+   "seq": 1524690,
+   "surface": "毎週",
+   "reading": "まいしゅう",
+   "senses": [
+    [
+     "every week"
+    ]
+   ]
+  },
+  "word_1387870": {
+   "seq": 1387870,
+   "surface": "先週",
+   "reading": "せんしゅう",
+   "senses": [
+    [
+     "last week",
+     "the week before"
+    ]
+   ]
+  },
+  "word_1548010": {
+   "seq": 1548010,
+   "surface": "来週",
+   "reading": "らいしゅう",
+   "senses": [
+    [
+     "next week"
+    ]
+   ]
+  },
+  "word_1289220": {
+   "seq": 1289220,
+   "surface": "今週",
+   "reading": "こんしゅう",
+   "senses": [
+    [
+     "this week"
+    ]
+   ]
+  },
+  "word_1288850": {
+   "seq": 1288850,
+   "surface": "今",
+   "reading": "いま",
+   "senses": [
+    [
+     "now",
+     "the present time",
+     "just now",
+     "soon",
+     "immediately"
+    ],
+    [
+     "another",
+     "more"
+    ]
+   ]
+  },
+  "word_2026850": {
+   "seq": 2026850,
+   "surface": "今すぐ",
+   "reading": "いますぐ",
+   "senses": [
+    [
+     "at once",
+     "immediately",
+     "right now"
+    ]
+   ]
+  },
+  "word_1579110": {
+   "seq": 1579110,
+   "surface": "今日",
+   "reading": "きょう",
+   "senses": [
+    [
+     "today",
+     "this day"
+    ],
+    [
+     "these days",
+     "recently",
+     "nowadays"
+    ]
+   ]
+  },
+  "word_1269060": {
+   "seq": 1269060,
+   "surface": "午前",
+   "reading": "ごぜん",
+   "senses": [
+    [
+     "morning",
+     "a.m."
+    ]
+   ]
+  },
+  "word_1268990": {
+   "seq": 1268990,
+   "surface": "午後",
+   "reading": "ごご",
+   "senses": [
+    [
+     "afternoon",
+     "p.m."
+    ]
+   ]
+  },
+  "word_1392580": {
+   "seq": 1392580,
+   "surface": "前",
+   "reading": "まえ",
+   "senses": [
+    [
+     "in front (of)",
+     "before (e.g. a building)"
+    ],
+    [
+     "before",
+     "earlier",
+     "previously",
+     "prior",
+     "ago",
+     "(minutes) to (the hour)"
+    ],
+    [
+     "(the) front",
+     "frontal part",
+     "fore",
+     "head (e.g. of a line)"
+    ],
+    [
+     "forward",
+     "ahead"
+    ],
+    [
+     "(in the) presence (of)",
+     "in front (of someone)"
+    ],
+    [
+     "previous (e.g. page)",
+     "prior (e.g. engagement)",
+     "first (e.g. half)",
+     "former (e.g. example)"
+    ],
+    [
+     "portion",
+     "helping"
+    ],
+    [
+     "front (of one's body or clothing)",
+     "breast (of a coat, kimono, etc.)"
+    ],
+    [
+     "privates",
+     "private parts"
+    ],
+    [
+     "criminal record",
+     "previous conviction",
+     "(a) prior"
+    ]
+   ]
+  },
+  "word_1531710": {
+   "seq": 1531710,
+   "surface": "名前",
+   "reading": "なまえ",
+   "senses": [
+    [
+     "name"
+    ],
+    [
+     "given name",
+     "first name"
+    ]
+   ]
+  },
+  "word_1269320": {
+   "seq": 1269320,
+   "surface": "後",
+   "reading": "あと",
+   "senses": [
+    [
+     "behind",
+     "rear"
+    ],
+    [
+     "after",
+     "later"
+    ],
+    [
+     "remainder",
+     "the rest"
+    ],
+    [
+     "more (e.g. five more minutes)",
+     "left"
+    ],
+    [
+     "also",
+     "in addition"
+    ],
+    [
+     "descendant",
+     "successor",
+     "heir"
+    ],
+    [
+     "after one's death"
+    ],
+    [
+     "past",
+     "previous"
+    ]
+   ]
+  },
+  "word_1269350": {
+   "seq": 1269350,
+   "surface": "後で",
+   "reading": "あとで",
+   "senses": [
+    [
+     "later (on)",
+     "afterwards"
+    ]
+   ]
+  },
+  "word_1358450": {
+   "seq": 1358450,
+   "surface": "食後",
+   "reading": "しょくご",
+   "senses": [
+    [
+     "after a meal"
+    ]
+   ]
+  },
+  "word_1387210": {
+   "seq": 1387210,
+   "surface": "先",
+   "reading": "さき",
+   "senses": [
+    [
+     "point",
+     "tip",
+     "end",
+     "nozzle"
+    ],
+    [
+     "head (of a line)",
+     "front"
+    ],
+    [
+     "first",
+     "before",
+     "ahead (of)"
+    ],
+    [
+     "(the way) ahead",
+     "beyond"
+    ],
+    [
+     "future"
+    ],
+    [
+     "previous",
+     "prior",
+     "former",
+     "recent",
+     "last"
+    ],
+    [
+     "destination",
+     "address",
+     "place where you do something"
+    ],
+    [
+     "rest (e.g. of a story)",
+     "continuation",
+     "remaining part"
+    ],
+    [
+     "the other party"
+    ]
+   ]
+  },
+  "word_1387280": {
+   "seq": 1387280,
+   "surface": "先に",
+   "reading": "さきに",
+   "senses": [
+    [
+     "previously",
+     "before",
+     "earlier",
+     "formerly",
+     "recently"
+    ],
+    [
+     "first",
+     "before (something or someone else)",
+     "ahead (of)",
+     "earlier"
+    ],
+    [
+     "beforehand",
+     "in advance",
+     "ahead of time"
+    ]
+   ]
+  },
+  "word_1387500": {
+   "seq": 1387500,
+   "surface": "先月",
+   "reading": "せんげつ",
+   "senses": [
+    [
+     "last month"
+    ]
+   ]
+  },
+  "word_1387990": {
+   "seq": 1387990,
+   "surface": "先生",
+   "reading": "せんせい",
+   "senses": [
+    [
+     "teacher",
+     "instructor",
+     "master"
+    ],
+    [
+     "sensei",
+     "title or form of address for a teacher, master, doctor, lawyer, etc."
+    ],
+    [
+     "intimate or teasing form of address"
+    ],
+    [
+     "one's elder"
+    ]
+   ]
+  },
+  "word_1302680": {
+   "seq": 1302680,
+   "surface": "山",
+   "reading": "やま",
+   "senses": [
+    [
+     "mountain",
+     "hill"
+    ],
+    [
+     "mine"
+    ],
+    [
+     "(mountain) forest"
+    ],
+    [
+     "heap",
+     "pile",
+     "stack",
+     "mountain"
+    ],
+    [
+     "protruding or high part of an object",
+     "crown (of a hat)",
+     "thread (of a screw)",
+     "tread (of a tire)"
+    ],
+    [
+     "climax",
+     "peak",
+     "critical point"
+    ],
+    [
+     "guess",
+     "speculation",
+     "gamble"
+    ],
+    [
+     "(criminal) case",
+     "crime"
+    ],
+    [
+     "mountain climbing",
+     "mountaineering"
+    ],
+    [
+     "festival float (esp. one mounted with a decorative halberd)"
+    ],
+    [
+     "deck (from which players draw cards)",
+     "draw pile",
+     "stock"
+    ],
+    [
+     "wall",
+     "wall tile"
+    ],
+    [
+     "wild"
+    ]
+   ]
+  },
+  "word_1303090": {
+   "seq": 1303090,
+   "surface": "山道",
+   "reading": "やまみち",
+   "senses": [
+    [
+     "mountain road",
+     "mountain trail"
+    ]
+   ]
+  },
+  "word_1390020": {
+   "seq": 1390020,
+   "surface": "川",
+   "reading": "かわ",
+   "senses": [
+    [
+     "river",
+     "stream"
+    ],
+    [
+     "River",
+     "the ... river"
+    ]
+   ]
+  },
+  "word_1348460": {
+   "seq": 1348460,
+   "surface": "小川",
+   "reading": "おがわ",
+   "senses": [
+    [
+     "stream",
+     "brook",
+     "creek"
+    ]
+   ]
+  },
+  "word_1371260": {
+   "seq": 1371260,
+   "surface": "水",
+   "reading": "みず",
+   "senses": [
+    [
+     "water (esp. cool or cold)"
+    ],
+    [
+     "fluid (esp. in an animal tissue)",
+     "liquid"
+    ],
+    [
+     "flood",
+     "floodwaters"
+    ],
+    [
+     "water offered to wrestlers just prior to a bout"
+    ],
+    [
+     "break granted to wrestlers engaged in a prolonged bout"
+    ]
+   ]
+  },
+  "word_1414210": {
+   "seq": 1414210,
+   "surface": "大水",
+   "reading": "おおみず",
+   "senses": [
+    [
+     "flood"
+    ]
+   ]
+  },
+  "word_1600420": {
+   "seq": 1600420,
+   "surface": "飲み水",
+   "reading": "のみみず",
+   "senses": [
+    [
+     "drinking water",
+     "potable water"
+    ]
+   ]
+  },
+  "word_1193610": {
+   "seq": 1193610,
+   "surface": "火",
+   "reading": "ひ",
+   "senses": [
+    [
+     "fire",
+     "flame",
+     "blaze"
+    ]
+   ]
+  },
+  "word_1194580": {
+   "seq": 1194580,
+   "surface": "花火",
+   "reading": "はなび",
+   "senses": [
+    [
+     "fireworks"
+    ]
+   ]
+  },
+  "word_1193670": {
+   "seq": 1193670,
+   "surface": "火の車",
+   "reading": "ひのくるま",
+   "senses": [
+    [
+     "fiery chariot (that carries the souls of sinners into hell)"
+    ],
+    [
+     "desperate financial situation",
+     "dire straits"
+    ]
+   ]
+  },
+  "word_1534520": {
+   "seq": 1534520,
+   "surface": "木",
+   "reading": "き",
+   "senses": [
+    [
+     "tree",
+     "shrub",
+     "bush"
+    ],
+    [
+     "wood",
+     "timber"
+    ],
+    [
+     "wooden clappers (signalling the beginning or end of a performance)"
+    ]
+   ]
+  },
+  "word_1591090": {
+   "seq": 1591090,
+   "surface": "木々",
+   "reading": "きぎ",
+   "senses": [
+    [
+     "(many) trees",
+     "every tree",
+     "all kinds of trees"
+    ]
+   ]
+  },
+  "word_1445270": {
+   "seq": 1445270,
+   "surface": "土",
+   "reading": "つち",
+   "senses": [
+    [
+     "earth",
+     "soil",
+     "dirt",
+     "clay",
+     "mud"
+    ],
+    [
+     "the earth (historically, esp. as opposed to the heavens)",
+     "the ground",
+     "the land"
+    ],
+    [
+     "low-quality torinoko-gami (containing mud)"
+    ],
+    [
+     "(period of) refraining from construction in the direction of the god of the earth (in Onmyōdō)"
+    ]
+   ]
+  },
+  "word_1445590": {
+   "seq": 1445590,
+   "surface": "土曜日",
+   "reading": "どようび",
+   "senses": [
+    [
+     "Saturday"
+    ]
+   ]
+  },
+  "word_1445580": {
+   "seq": 1445580,
+   "surface": "土曜",
+   "reading": "どよう",
+   "senses": [
+    [
+     "Saturday"
+    ]
+   ]
+  },
+  "word_1438210": {
+   "seq": 1438210,
+   "surface": "天",
+   "reading": "てん",
+   "senses": [
+    [
+     "sky"
+    ],
+    [
+     "heaven"
+    ],
+    [
+     "God"
+    ],
+    [
+     "svarga (heaven-like realm visited as a stage of death and rebirth)"
+    ],
+    [
+     "deva (divine being of Buddhism)"
+    ],
+    [
+     "top (of a book)"
+    ],
+    [
+     "sole (of a Japanese sandal)"
+    ],
+    [
+     "beginning",
+     "start"
+    ],
+    [
+     "tempura"
+    ],
+    [
+     "India"
+    ]
+   ]
+  },
+  "word_1438690": {
+   "seq": 1438690,
+   "surface": "天気",
+   "reading": "てんき",
+   "senses": [
+    [
+     "weather"
+    ],
+    [
+     "fair weather",
+     "fine weather"
+    ]
+   ]
+  },
+  "word_1221520": {
+   "seq": 1221520,
+   "surface": "気",
+   "reading": "き",
+   "senses": [
+    [
+     "spirit",
+     "mind",
+     "heart"
+    ],
+    [
+     "nature",
+     "disposition"
+    ],
+    [
+     "intention",
+     "mind",
+     "will",
+     "motivation"
+    ],
+    [
+     "mood",
+     "feelings"
+    ],
+    [
+     "consciousness"
+    ],
+    [
+     "care",
+     "attention",
+     "consideration",
+     "worry"
+    ],
+    [
+     "interest"
+    ],
+    [
+     "(the) air",
+     "atmosphere"
+    ],
+    [
+     "ambience",
+     "atmosphere (of)",
+     "air (of)",
+     "mood"
+    ],
+    [
+     "fragrance",
+     "aroma",
+     "flavour",
+     "taste"
+    ],
+    [
+     "qi (in traditional Chinese philosophy and medicine)",
+     "chi",
+     "ki"
+    ]
+   ]
+  },
+  "word_1367010": {
+   "seq": 1367010,
+   "surface": "人気",
+   "reading": "にんき",
+   "senses": [
+    [
+     "popularity",
+     "public favor"
+    ],
+    [
+     "condition (e.g. market)",
+     "tone",
+     "character",
+     "nature"
+    ]
+   ]
+  },
+  "word_1221740": {
+   "seq": 1221740,
+   "surface": "気に入る",
+   "reading": "きにいる",
+   "senses": [
+    [
+     "to like",
+     "to be pleased with",
+     "to be delighted with",
+     "to take a liking to",
+     "to suit one's fancy"
+    ]
+   ]
+  },
+  "word_1245290": {
+   "seq": 1245290,
+   "surface": "空",
+   "reading": "そら",
+   "senses": [
+    [
+     "sky",
+     "the air",
+     "the heavens"
+    ],
+    [
+     "weather"
+    ],
+    [
+     "far-off place",
+     "distant place"
+    ],
+    [
+     "state of mind",
+     "feeling"
+    ],
+    [
+     "(from) memory",
+     "(by) heart"
+    ],
+    [
+     "falsehood",
+     "lie"
+    ],
+    [
+     "somehow",
+     "vaguely"
+    ],
+    [
+     "fake"
+    ]
+   ]
+  },
+  "word_1381470": {
+   "seq": 1381470,
+   "surface": "青空",
+   "reading": "あおぞら",
+   "senses": [
+    [
+     "blue sky"
+    ]
+   ]
+  },
+  "word_1171900": {
+   "seq": 1171900,
+   "surface": "雨",
+   "reading": "あめ",
+   "senses": [
+    [
+     "rain"
+    ],
+    [
+     "rainy day",
+     "rainy weather"
+    ],
+    [
+     "the November suit (in hanafuda)"
+    ]
+   ]
+  },
+  "word_1413070": {
+   "seq": 1413070,
+   "surface": "大雨",
+   "reading": "おおあめ",
+   "senses": [
+    [
+     "heavy rain",
+     "torrential rainfall",
+     "downpour"
+    ]
+   ]
+  },
+  "word_1347810": {
+   "seq": 1347810,
+   "surface": "小雨",
+   "reading": "こさめ",
+   "senses": [
+    [
+     "light rain",
+     "drizzle"
+    ]
+   ]
+  },
+  "word_1194500": {
+   "seq": 1194500,
+   "surface": "花",
+   "reading": "はな",
+   "senses": [
+    [
+     "flower",
+     "blossom",
+     "bloom",
+     "petal"
+    ],
+    [
+     "cherry blossom"
+    ],
+    [
+     "beauty"
+    ],
+    [
+     "blooming (esp. of cherry blossoms)"
+    ],
+    [
+     "ikebana"
+    ],
+    [
+     "hanafuda"
+    ],
+    [
+     "(the) best"
+    ],
+    [
+     "glorious",
+     "lovely"
+    ]
+   ]
+  },
+  "word_1194660": {
+   "seq": 1194660,
+   "surface": "花見",
+   "reading": "はなみ",
+   "senses": [
+    [
+     "cherry blossom viewing",
+     "flower viewing"
+    ]
+   ]
+  },
+  "word_1578010": {
+   "seq": 1578010,
+   "surface": "魚",
+   "reading": "さかな",
+   "senses": [
+    [
+     "fish"
+    ]
+   ]
+  },
+  "word_1242750": {
+   "seq": 1242750,
+   "surface": "金魚",
+   "reading": "きんぎょ",
+   "senses": [
+    [
+     "goldfish (Carassius auratus)"
+    ]
+   ]
+  },
+  "word_1367090": {
+   "seq": 1367090,
+   "surface": "人魚",
+   "reading": "にんぎょ",
+   "senses": [
+    [
+     "mermaid",
+     "merman"
+    ]
+   ]
+  },
+  "word_1233100": {
+   "seq": 1233100,
+   "surface": "魚屋",
+   "reading": "さかなや",
+   "senses": [
+    [
+     "fish market",
+     "fish dealer",
+     "fishmonger"
+    ]
+   ]
+  },
+  "word_1242600": {
+   "seq": 1242600,
+   "surface": "金",
+   "reading": "きん",
+   "senses": [
+    [
+     "gold (metal)"
+    ],
+    [
+     "gold (color)"
+    ],
+    [
+     "gold (medal)",
+     "first place (prize)"
+    ],
+    [
+     "something of great value",
+     "something golden (e.g. silence)"
+    ],
+    [
+     "money",
+     "gold coin"
+    ],
+    [
+     "sum (of money)"
+    ],
+    [
+     "Friday"
+    ],
+    [
+     "karat (measure of purity of gold)",
+     "carat"
+    ],
+    [
+     "metal (fourth phase of Wu Xing)"
+    ],
+    [
+     "Jin dynasty (of China; 1115-1234)",
+     "Chin dynasty",
+     "Jurchen dynasty"
+    ],
+    [
+     "gold general"
+    ],
+    [
+     "testicles"
+    ]
+   ]
+  },
+  "word_1001820": {
+   "seq": 1001820,
+   "surface": "お金",
+   "reading": "おかね",
+   "senses": [
+    [
+     "money"
+    ]
+   ]
+  },
+  "word_1242590": {
+   "seq": 1242590,
+   "surface": "金",
+   "reading": "かね",
+   "senses": [
+    [
+     "money"
+    ],
+    [
+     "metal"
+    ]
+   ]
+  },
+  "word_1580640": {
+   "seq": 1580640,
+   "surface": "人",
+   "reading": "ひと",
+   "senses": [
+    [
+     "person",
+     "someone",
+     "somebody"
+    ],
+    [
+     "human beings",
+     "mankind",
+     "man",
+     "people",
+     "humans"
+    ],
+    [
+     "human (Homo sapiens)"
+    ],
+    [
+     "(other) people",
+     "others"
+    ],
+    [
+     "character",
+     "personality",
+     "nature"
+    ],
+    [
+     "capable person",
+     "competent person",
+     "suitable person",
+     "right person"
+    ],
+    [
+     "adult",
+     "grown-up"
+    ],
+    [
+     "I",
+     "me",
+     "one"
+    ]
+   ]
+  },
+  "word_1580650": {
+   "seq": 1580650,
+   "surface": "人々",
+   "reading": "ひとびと",
+   "senses": [
+    [
+     "people",
+     "men and women"
+    ],
+    [
+     "each person",
+     "everybody"
+    ]
+   ]
+  },
+  "word_1464700": {
+   "seq": 1464700,
+   "surface": "日本人",
+   "reading": "にほんじん",
+   "senses": [
+    [
+     "Japanese person"
+    ]
+   ]
+  },
+  "word_1203650": {
+   "seq": 1203650,
+   "surface": "外国人",
+   "reading": "がいこくじん",
+   "senses": [
+    [
+     "foreigner",
+     "foreign citizen",
+     "foreign national",
+     "alien",
+     "non-Japanese"
+    ]
+   ]
+  },
+  "word_1307770": {
+   "seq": 1307770,
+   "surface": "子",
+   "reading": "こ",
+   "senses": [
+    [
+     "child",
+     "kid",
+     "teenager",
+     "youngster",
+     "young (non-adult) person"
+    ],
+    [
+     "(one's) child",
+     "offspring"
+    ],
+    [
+     "young woman"
+    ],
+    [
+     "young (animal)"
+    ],
+    [
+     "offshoot"
+    ],
+    [
+     "interest"
+    ],
+    [
+     "new share"
+    ],
+    [
+     "player who is not a dealer"
+    ],
+    [
+     "young geisha",
+     "young prostitute"
+    ],
+    [
+     "bird egg"
+    ],
+    [
+     "-er (often of young women)"
+    ]
+   ]
+  },
+  "word_1307850": {
+   "seq": 1307850,
+   "surface": "子供",
+   "reading": "こども",
+   "senses": [
+    [
+     "child",
+     "children"
+    ]
+   ]
+  },
+  "word_1420010": {
+   "seq": 1420010,
+   "surface": "男の子",
+   "reading": "おとこのこ",
+   "senses": [
+    [
+     "boy",
+     "son",
+     "baby boy"
+    ],
+    [
+     "young man"
+    ]
+   ]
+  },
+  "word_1344970": {
+   "seq": 1344970,
+   "surface": "女の子",
+   "reading": "おんなのこ",
+   "senses": [
+    [
+     "girl",
+     "daughter",
+     "baby girl"
+    ],
+    [
+     "young woman"
+    ]
+   ]
+  },
+  "word_1344930": {
+   "seq": 1344930,
+   "surface": "女",
+   "reading": "おんな",
+   "senses": [
+    [
+     "woman",
+     "female"
+    ],
+    [
+     "female lover",
+     "girlfriend",
+     "mistress",
+     "(someone's) woman"
+    ]
+   ]
+  },
+  "word_1419990": {
+   "seq": 1419990,
+   "surface": "男",
+   "reading": "おとこ",
+   "senses": [
+    [
+     "man",
+     "male"
+    ],
+    [
+     "fellow",
+     "guy",
+     "chap",
+     "bloke"
+    ],
+    [
+     "male lover",
+     "boyfriend",
+     "man"
+    ],
+    [
+     "manliness",
+     "manly honor",
+     "manly honour",
+     "manly reputation"
+    ]
+   ]
+  },
+  "word_1514990": {
+   "seq": 1514990,
+   "surface": "母",
+   "reading": "はは",
+   "senses": [
+    [
+     "mother"
+    ]
+   ]
+  },
+  "word_1515120": {
+   "seq": 1515120,
+   "surface": "母親",
+   "reading": "ははおや",
+   "senses": [
+    [
+     "mother"
+    ]
+   ]
+  },
+  "word_1002650": {
+   "seq": 1002650,
+   "surface": "お母さん",
+   "reading": "おかあさん",
+   "senses": [
+    [
+     "mother",
+     "mom",
+     "mum",
+     "ma"
+    ],
+    [
+     "wife"
+    ],
+    [
+     "you (of an elderly person older than the speaker)",
+     "she",
+     "her"
+    ]
+   ]
+  },
+  "word_1609470": {
+   "seq": 1609470,
+   "surface": "母さん",
+   "reading": "かあさん",
+   "senses": [
+    [
+     "mother"
+    ],
+    [
+     "wife"
+    ]
+   ]
+  },
+  "word_1497610": {
+   "seq": 1497610,
+   "surface": "父",
+   "reading": "ちち",
+   "senses": [
+    [
+     "father"
+    ]
+   ]
+  },
+  "word_1497680": {
+   "seq": 1497680,
+   "surface": "父親",
+   "reading": "ちちおや",
+   "senses": [
+    [
+     "father"
+    ]
+   ]
+  },
+  "word_1002590": {
+   "seq": 1002590,
+   "surface": "お父さん",
+   "reading": "おとうさん",
+   "senses": [
+    [
+     "father",
+     "dad",
+     "papa",
+     "pa",
+     "pop",
+     "daddy",
+     "dada"
+    ],
+    [
+     "husband"
+    ],
+    [
+     "you (of an elderly person older than the speaker)",
+     "he",
+     "him"
+    ]
+   ]
+  },
+  "word_1610490": {
+   "seq": 1610490,
+   "surface": "父さん",
+   "reading": "とうさん",
+   "senses": [
+    [
+     "father",
+     "dad",
+     "papa",
+     "pa",
+     "pop",
+     "daddy",
+     "dada"
+    ]
+   ]
+  },
+  "word_1540170": {
+   "seq": 1540170,
+   "surface": "友達",
+   "reading": "ともだち",
+   "senses": [
+    [
+     "friend",
+     "companion"
+    ]
+   ]
+  },
+  "word_1539980": {
+   "seq": 1539980,
+   "surface": "友",
+   "reading": "とも",
+   "senses": [
+    [
+     "friend",
+     "companion",
+     "comrade",
+     "pal"
+    ],
+    [
+     "accompaniment",
+     "companion (e.g. book)",
+     "complement",
+     "accessory"
+    ]
+   ]
+  },
+  "word_1531330": {
+   "seq": 1531330,
+   "surface": "名",
+   "reading": "な",
+   "senses": [
+    [
+     "name",
+     "given name"
+    ],
+    [
+     "title"
+    ],
+    [
+     "fame",
+     "renown",
+     "reputation"
+    ],
+    [
+     "pretext",
+     "pretense",
+     "justification",
+     "appearance"
+    ]
+   ]
+  },
+  "word_1531680": {
+   "seq": 1531680,
+   "surface": "名人",
+   "reading": "めいじん",
+   "senses": [
+    [
+     "master",
+     "expert"
+    ],
+    [
+     "Meijin (professional title)"
+    ],
+    [
+     "Meijin (highest title for male players in competitive karuta)"
+    ]
+   ]
+  },
+  "word_1541620": {
+   "seq": 1541620,
+   "surface": "有名",
+   "reading": "ゆうめい",
+   "senses": [
+    [
+     "famous",
+     "well-known"
+    ]
+   ]
+  },
+  "word_1206900": {
+   "seq": 1206900,
+   "surface": "学生",
+   "reading": "がくせい",
+   "senses": [
+    [
+     "student (esp. a university student)"
+    ]
+   ]
+  },
+  "word_1378690": {
+   "seq": 1378690,
+   "surface": "生まれる",
+   "reading": "うまれる",
+   "senses": [
+    [
+     "to be born"
+    ]
+   ]
+  },
+  "word_1588410": {
+   "seq": 1588410,
+   "surface": "生む",
+   "reading": "うむ",
+   "senses": [
+    [
+     "to give birth",
+     "to bear (child)",
+     "to lay (eggs)"
+    ],
+    [
+     "to produce",
+     "to yield",
+     "to give rise to",
+     "to deliver"
+    ]
+   ]
+  },
+  "word_1275640": {
+   "seq": 1275640,
+   "surface": "口",
+   "reading": "くち",
+   "senses": [
+    [
+     "mouth"
+    ],
+    [
+     "opening",
+     "hole",
+     "gap",
+     "orifice"
+    ],
+    [
+     "mouth (of a bottle)",
+     "spout",
+     "nozzle",
+     "mouthpiece"
+    ],
+    [
+     "gate",
+     "door",
+     "entrance",
+     "exit"
+    ],
+    [
+     "speaking",
+     "speech",
+     "talk (i.e. gossip)"
+    ],
+    [
+     "taste",
+     "palate"
+    ],
+    [
+     "mouth (to feed)"
+    ],
+    [
+     "opening (i.e. vacancy)",
+     "available position"
+    ],
+    [
+     "invitation",
+     "summons"
+    ],
+    [
+     "kind",
+     "sort",
+     "type"
+    ],
+    [
+     "opening (i.e. beginning)"
+    ],
+    [
+     "counter for mouthfuls, shares (of money) and stove burners"
+    ],
+    [
+     "counter for swords, blades, etc."
+    ]
+   ]
+  },
+  "word_1582820": {
+   "seq": 1582820,
+   "surface": "入り口",
+   "reading": "いりぐち",
+   "senses": [
+    [
+     "entrance",
+     "entry",
+     "gate",
+     "approach",
+     "mouth"
+    ]
+   ]
+  },
+  "word_1604890": {
+   "seq": 1604890,
+   "surface": "目",
+   "reading": "め",
+   "senses": [
+    [
+     "eye",
+     "eyeball"
+    ],
+    [
+     "eyesight",
+     "sight",
+     "vision"
+    ],
+    [
+     "look",
+     "stare",
+     "gaze",
+     "glance"
+    ],
+    [
+     "notice",
+     "attention",
+     "observation",
+     "eyes (of the world, public, etc.)"
+    ],
+    [
+     "an experience"
+    ],
+    [
+     "viewpoint"
+    ],
+    [
+     "discrimination",
+     "discernment",
+     "judgement",
+     "eye (e.g. for quality)"
+    ],
+    [
+     "(an) appearance"
+    ],
+    [
+     "chance (of success)",
+     "possibility (of a good result)"
+    ],
+    [
+     "spacing (between crossed strands of a net, mesh, etc.)",
+     "opening",
+     "stitch",
+     "texture",
+     "weave"
+    ],
+    [
+     "grain (of wood, paper)"
+    ],
+    [
+     "eye (of a storm, needle, etc.)"
+    ],
+    [
+     "intersection (on a go board)",
+     "square (on a chessboard)"
+    ],
+    [
+     "dot (on a dice)",
+     "pip",
+     "rolled number"
+    ],
+    [
+     "graduation",
+     "division (of a scale)"
+    ],
+    [
+     "tooth (of a saw, comb, etc.)"
+    ],
+    [
+     "ordinal number suffix"
+    ],
+    [
+     "somewhat",
+     "-ish"
+    ],
+    [
+     "point (e.g. of change)"
+    ],
+    [
+     "eye (empty space inside a group of stones)"
+    ]
+   ]
+  },
+  "word_1535490": {
+   "seq": 1535490,
+   "surface": "目上",
+   "reading": "めうえ",
+   "senses": [
+    [
+     "superior",
+     "superiors",
+     "senior"
+    ]
+   ]
+  },
+  "word_1317170": {
+   "seq": 1317170,
+   "surface": "耳",
+   "reading": "みみ",
+   "senses": [
+    [
+     "ear"
+    ],
+    [
+     "hearing"
+    ],
+    [
+     "ear (for music, etc.)"
+    ],
+    [
+     "edge",
+     "crust",
+     "heel (of bread or cheese)",
+     "selvedge (of woven fabric)",
+     "selvage"
+    ],
+    [
+     "ear (of a pot, jug, etc.)",
+     "handle"
+    ]
+   ]
+  },
+  "word_1675660": {
+   "seq": 1675660,
+   "surface": "空耳",
+   "reading": "そらみみ",
+   "senses": [
+    [
+     "mishearing"
+    ],
+    [
+     "(feigned) deafness"
+    ],
+    [
+     "homophonic translation of song lyrics for comic effect"
+    ]
+   ]
+  },
+  "word_1327190": {
+   "seq": 1327190,
+   "surface": "手",
+   "reading": "て",
+   "senses": [
+    [
+     "hand",
+     "arm"
+    ],
+    [
+     "forepaw",
+     "foreleg"
+    ],
+    [
+     "handle"
+    ],
+    [
+     "hand",
+     "worker",
+     "help"
+    ],
+    [
+     "trouble",
+     "care",
+     "effort"
+    ],
+    [
+     "means",
+     "way",
+     "trick",
+     "move",
+     "technique",
+     "workmanship"
+    ],
+    [
+     "hand",
+     "handwriting"
+    ],
+    [
+     "kind",
+     "type",
+     "sort"
+    ],
+    [
+     "one's hands",
+     "one's possession"
+    ],
+    [
+     "ability to cope"
+    ],
+    [
+     "hand (of cards)"
+    ],
+    [
+     "direction"
+    ],
+    [
+     "move (in go, shogi, etc.)"
+    ]
+   ]
+  },
+  "word_1171120": {
+   "seq": 1171120,
+   "surface": "右手",
+   "reading": "みぎて",
+   "senses": [
+    [
+     "right hand"
+    ],
+    [
+     "right-hand side",
+     "right-hand direction",
+     "(on) the right"
+    ]
+   ]
+  },
+  "word_1290900": {
+   "seq": 1290900,
+   "surface": "左手",
+   "reading": "ひだりて",
+   "senses": [
+    [
+     "left hand"
+    ],
+    [
+     "left-hand side",
+     "left-hand direction",
+     "(on) the left"
+    ]
+   ]
+  },
+  "word_1328080": {
+   "seq": 1328080,
+   "surface": "手足",
+   "reading": "てあし",
+   "senses": [
+    [
+     "hands and feet",
+     "limbs"
+    ],
+    [
+     "person at one's beck and call",
+     "person at hand",
+     "reliable worker"
+    ]
+   ]
+  },
+  "word_1327830": {
+   "seq": 1327830,
+   "surface": "手書き",
+   "reading": "てがき",
+   "senses": [
+    [
+     "handwriting"
+    ],
+    [
+     "handwritten",
+     "hand-drawn",
+     "hand-painted"
+    ]
+   ]
+  },
+  "word_1404630": {
+   "seq": 1404630,
+   "surface": "足",
+   "reading": "あし",
+   "senses": [
+    [
+     "foot",
+     "paw",
+     "arm (of an octopus, squid, etc.)"
+    ],
+    [
+     "leg"
+    ],
+    [
+     "gait"
+    ],
+    [
+     "pace"
+    ],
+    [
+     "lower radical of a kanji"
+    ],
+    [
+     "means of transportation",
+     "(one's) ride"
+    ],
+    [
+     "money",
+     "coin"
+    ]
+   ]
+  },
+  "word_1577100": {
+   "seq": 1577100,
+   "surface": "何",
+   "reading": "なに",
+   "senses": [
+    [
+     "what"
+    ],
+    [
+     "you-know-what",
+     "that thing"
+    ],
+    [
+     "whatsit",
+     "whachamacallit",
+     "what's-his-name",
+     "what's-her-name"
+    ],
+    [
+     "penis",
+     "(one's) thing",
+     "dick"
+    ],
+    [
+     "(not) at all",
+     "(not) in the slightest"
+    ],
+    [
+     "what?",
+     "huh?"
+    ],
+    [
+     "hey!",
+     "come on!"
+    ],
+    [
+     "oh, no (it's fine)",
+     "why (it's nothing)",
+     "oh (certainly not)"
+    ]
+   ]
+  },
+  "word_1188270": {
+   "seq": 1188270,
+   "surface": "何か",
+   "reading": "なにか",
+   "senses": [
+    [
+     "something",
+     "some",
+     "any"
+    ],
+    [
+     "somehow",
+     "for some reason"
+    ],
+    [
+     "(so) what (are you trying to say)?",
+     "what (do you mean)?"
+    ]
+   ]
+  },
+  "word_1189100": {
+   "seq": 1189100,
+   "surface": "何人",
+   "reading": "なんにん",
+   "senses": [
+    [
+     "how many people",
+     "a number of people"
+    ]
+   ]
+  },
+  "word_1189240": {
+   "seq": 1189240,
+   "surface": "何日",
+   "reading": "なんにち",
+   "senses": [
+    [
+     "what day"
+    ],
+    [
+     "how many days"
+    ]
+   ]
+  },
+  "word_1413240": {
+   "seq": 1413240,
+   "surface": "大学",
+   "reading": "だいがく",
+   "senses": [
+    [
+     "university",
+     "college"
+    ],
+    [
+     "former imperial university of Japan (established under the ritsuryō system for the training of government administrators)"
+    ],
+    [
+     "the Great Learning (one of the Four Books)"
+    ]
+   ]
+  },
+  "word_1206730": {
+   "seq": 1206730,
+   "surface": "学校",
+   "reading": "がっこう",
+   "senses": [
+    [
+     "school"
+    ]
+   ]
+  },
+  "word_1413260": {
+   "seq": 1413260,
+   "surface": "大学生",
+   "reading": "だいがくせい",
+   "senses": [
+    [
+     "university student",
+     "college student"
+    ]
+   ]
+  },
+  "word_1423650": {
+   "seq": 1423650,
+   "surface": "中学校",
+   "reading": "ちゅうがっこう",
+   "senses": [
+    [
+     "junior high school",
+     "middle school",
+     "lower secondary school"
+    ]
+   ]
+  },
+  "word_1283500": {
+   "seq": 1283500,
+   "surface": "高校",
+   "reading": "こうこう",
+   "senses": [
+    [
+     "senior high school",
+     "high school"
+    ]
+   ]
+  },
+  "word_1283510": {
+   "seq": 1283510,
+   "surface": "高校生",
+   "reading": "こうこうせい",
+   "senses": [
+    [
+     "senior high school student"
+    ]
+   ]
+  },
+  "word_1279590": {
+   "seq": 1279590,
+   "surface": "校長",
+   "reading": "こうちょう",
+   "senses": [
+    [
+     "principal",
+     "head teacher",
+     "headmaster",
+     "headmistress"
+    ]
+   ]
+  },
+  "word_1259290": {
+   "seq": 1259290,
+   "surface": "見る",
+   "reading": "みる",
+   "senses": [
+    [
+     "to see",
+     "to look",
+     "to watch",
+     "to view",
+     "to observe"
+    ],
+    [
+     "to examine",
+     "to look over",
+     "to assess",
+     "to check",
+     "to judge"
+    ],
+    [
+     "to look after",
+     "to attend to",
+     "to take care of",
+     "to keep an eye on"
+    ],
+    [
+     "to experience",
+     "to meet with (misfortune, success, etc.)"
+    ],
+    [
+     "to try ...",
+     "to have a go at ...",
+     "to give ... a try"
+    ],
+    [
+     "to see (that) ...",
+     "to find (that) ..."
+    ]
+   ]
+  },
+  "word_1259210": {
+   "seq": 1259210,
+   "surface": "見せる",
+   "reading": "みせる",
+   "senses": [
+    [
+     "to show",
+     "to display"
+    ],
+    [
+     "to make (something or someone) look ...",
+     "to present an appearance of ..."
+    ],
+    [
+     "to make (something) worth watching",
+     "to be entertaining"
+    ],
+    [
+     "to have (something) looked at (by a specialist)",
+     "to have (an antique, etc.) appraised"
+    ],
+    [
+     "to have (an injury, person, etc.) looked at (by a doctor)",
+     "to take (someone) to a doctor"
+    ],
+    [
+     "to make a show of (doing)",
+     "to do in a conspicuous manner",
+     "to do in view of others"
+    ],
+    [
+     "to resolve to do",
+     "to do at any cost",
+     "to show others that one will ..."
+    ]
+   ]
+  },
+  "word_1587040": {
+   "seq": 1587040,
+   "surface": "言う",
+   "reading": "いう",
+   "senses": [
+    [
+     "to say",
+     "to utter",
+     "to declare"
+    ],
+    [
+     "to name",
+     "to call"
+    ],
+    [
+     "to go (e.g. \"the alarm went ping\")",
+     "to make a noise"
+    ]
+   ]
+  },
+  "word_1264080": {
+   "seq": 1264080,
+   "surface": "言い出す",
+   "reading": "いいだす",
+   "senses": [
+    [
+     "to begin to say",
+     "to start talking",
+     "to broach (a matter)",
+     "to bring up",
+     "to come out with"
+    ],
+    [
+     "to be the first to say",
+     "to suggest (doing)",
+     "to propose"
+    ]
+   ]
+  },
+  "word_1264540": {
+   "seq": 1264540,
+   "surface": "言葉",
+   "reading": "ことば",
+   "senses": [
+    [
+     "language",
+     "dialect"
+    ],
+    [
+     "word",
+     "phrase",
+     "expression",
+     "term"
+    ],
+    [
+     "speech",
+     "(manner of) speaking",
+     "(use of) language"
+    ],
+    [
+     "words",
+     "remark",
+     "statement",
+     "comment"
+    ],
+    [
+     "learning to speak",
+     "language acquisition"
+    ]
+   ]
+  },
+  "word_1464530": {
+   "seq": 1464530,
+   "surface": "日本語",
+   "reading": "にほんご",
+   "senses": [
+    [
+     "Japanese (language)"
+    ]
+   ]
+  },
+  "word_1424290": {
+   "seq": 1424290,
+   "surface": "中国語",
+   "reading": "ちゅうごくご",
+   "senses": [
+    [
+     "Chinese (language)"
+    ]
+   ]
+  },
+  "word_1174420": {
+   "seq": 1174420,
+   "surface": "英語",
+   "reading": "えいご",
+   "senses": [
+    [
+     "English (language)"
+    ]
+   ]
+  },
+  "word_1562350": {
+   "seq": 1562350,
+   "surface": "話す",
+   "reading": "はなす",
+   "senses": [
+    [
+     "to talk",
+     "to speak",
+     "to converse",
+     "to chat"
+    ],
+    [
+     "to tell",
+     "to explain",
+     "to narrate",
+     "to mention",
+     "to describe",
+     "to discuss"
+    ],
+    [
+     "to speak (a language)"
+    ]
+   ]
+  },
+  "word_1600900": {
+   "seq": 1600900,
+   "surface": "話",
+   "reading": "はなし",
+   "senses": [
+    [
+     "talk",
+     "speech",
+     "chat",
+     "conversation"
+    ],
+    [
+     "topic",
+     "subject"
+    ],
+    [
+     "discussions",
+     "negotiation",
+     "argument"
+    ],
+    [
+     "rumor",
+     "talk",
+     "hearsay"
+    ],
+    [
+     "tale",
+     "story",
+     "fable"
+    ],
+    [
+     "circumstances",
+     "particulars"
+    ]
+   ]
+  },
+  "word_1443840": {
+   "seq": 1443840,
+   "surface": "電話",
+   "reading": "でんわ",
+   "senses": [
+    [
+     "telephone call",
+     "phone call"
+    ],
+    [
+     "telephone (device)",
+     "phone"
+    ]
+   ]
+  },
+  "word_1198880": {
+   "seq": 1198880,
+   "surface": "会話",
+   "reading": "かいわ",
+   "senses": [
+    [
+     "conversation",
+     "talk",
+     "chat"
+    ]
+   ]
+  },
+  "word_1456360": {
+   "seq": 1456360,
+   "surface": "読む",
+   "reading": "よむ",
+   "senses": [
+    [
+     "to read"
+    ],
+    [
+     "to recite (e.g. a sutra)",
+     "to chant"
+    ],
+    [
+     "to predict",
+     "to guess",
+     "to forecast",
+     "to read (someone's thoughts)",
+     "to see (e.g. into someone's heart)",
+     "to divine"
+    ],
+    [
+     "to pronounce",
+     "to read (e.g. a kanji)"
+    ],
+    [
+     "to decipher",
+     "to read (a meter, graph, music, etc.)",
+     "to tell (the time)"
+    ],
+    [
+     "to count",
+     "to estimate"
+    ],
+    [
+     "to read (a kanji) with its native Japanese reading"
+    ]
+   ]
+  },
+  "word_1551450": {
+   "seq": 1551450,
+   "surface": "立ち読み",
+   "reading": "たちよみ",
+   "senses": [
+    [
+     "reading while standing (in a bookstore, etc.)",
+     "browsing (i.e. reading an item but not buying it)"
+    ]
+   ]
+  },
+  "word_1456420": {
+   "seq": 1456420,
+   "surface": "読書",
+   "reading": "どくしょ",
+   "senses": [
+    [
+     "reading (books)"
+    ]
+   ]
+  },
+  "word_1343950": {
+   "seq": 1343950,
+   "surface": "書く",
+   "reading": "かく",
+   "senses": [
+    [
+     "to write",
+     "to compose",
+     "to pen"
+    ],
+    [
+     "to draw",
+     "to paint"
+    ]
+   ]
+  },
+  "word_1318970": {
+   "seq": 1318970,
+   "surface": "辞書",
+   "reading": "じしょ",
+   "senses": [
+    [
+     "dictionary",
+     "lexicon"
+    ],
+    [
+     "letter of resignation"
+    ]
+   ]
+  },
+  "word_1591110": {
+   "seq": 1591110,
+   "surface": "聞く",
+   "reading": "きく",
+   "senses": [
+    [
+     "to hear"
+    ],
+    [
+     "to listen (e.g. to music)"
+    ],
+    [
+     "to ask",
+     "to enquire",
+     "to query"
+    ],
+    [
+     "to hear about",
+     "to hear of",
+     "to learn of"
+    ],
+    [
+     "to follow (advice, order, etc.)",
+     "to obey",
+     "to listen to",
+     "to comply with"
+    ],
+    [
+     "to hear (e.g. a plea)",
+     "to grant (a request)",
+     "to accept (e.g. an argument)",
+     "to give consideration to"
+    ],
+    [
+     "to smell (esp. incense)",
+     "to sample (a fragrance)"
+    ],
+    [
+     "to taste (alcohol)",
+     "to try"
+    ]
+   ]
+  },
+  "word_1591150": {
+   "seq": 1591150,
+   "surface": "聞こえる",
+   "reading": "きこえる",
+   "senses": [
+    [
+     "to be heard",
+     "to be audible",
+     "to reach one's ears"
+    ],
+    [
+     "to sound (like)",
+     "to come across (as)"
+    ],
+    [
+     "to be well known",
+     "to be famous"
+    ],
+    [
+     "to accept (someone's words)",
+     "to agree",
+     "to understand"
+    ]
+   ]
+  },
+  "word_1362360": {
+   "seq": 1362360,
+   "surface": "新聞",
+   "reading": "しんぶん",
+   "senses": [
+    [
+     "newspaper"
+    ]
+   ]
+  },
+  "word_1362400": {
+   "seq": 1362400,
+   "surface": "新聞社",
+   "reading": "しんぶんしゃ",
+   "senses": [
+    [
+     "newspaper company"
+    ]
+   ]
+  },
+  "word_1522150": {
+   "seq": 1522150,
+   "surface": "本",
+   "reading": "ほん",
+   "senses": [
+    [
+     "book",
+     "volume",
+     "script"
+    ],
+    [
+     "this",
+     "present",
+     "current",
+     "... in question",
+     "... at issue"
+    ],
+    [
+     "main",
+     "head",
+     "principal"
+    ],
+    [
+     "real",
+     "genuine",
+     "regular",
+     "proper"
+    ],
+    [
+     "counter for long, thin objects (sticks, tubes, strings, bottles, pillars, rivers, rail lines, etc.)"
+    ],
+    [
+     "counter for films, TV shows, etc."
+    ],
+    [
+     "counter for telephone calls, letters, and emails"
+    ],
+    [
+     "counter for goals, home runs, etc."
+    ],
+    [
+     "counter for rounds or points (in judo, kendo, etc.)"
+    ]
+   ]
+  },
+  "word_1582710": {
+   "seq": 1582710,
+   "surface": "日本",
+   "reading": "にほん",
+   "senses": [
+    [
+     "Japan"
+    ]
+   ]
+  },
+  "word_1578510": {
+   "seq": 1578510,
+   "surface": "古本",
+   "reading": "ふるほん",
+   "senses": [
+    [
+     "secondhand book"
+    ],
+    [
+     "ancient book",
+     "antiquarian books"
+    ]
+   ]
+  },
+  "word_1578850": {
+   "seq": 1578850,
+   "surface": "行く",
+   "reading": "いく",
+   "senses": [
+    [
+     "to go",
+     "to move (towards)",
+     "to head (towards)",
+     "to leave (for)"
+    ],
+    [
+     "to move through",
+     "to travel across",
+     "to walk along (e.g. a road)"
+    ],
+    [
+     "to go (well, badly, etc.)",
+     "to proceed",
+     "to turn out",
+     "to get along"
+    ],
+    [
+     "to do (in a particular way)",
+     "to go (with; a choice)",
+     "to try"
+    ],
+    [
+     "to pass (of time, seasons, etc.)",
+     "to go by"
+    ],
+    [
+     "to stream",
+     "to flow"
+    ],
+    [
+     "to die",
+     "to pass away"
+    ],
+    [
+     "to reach (a stage, extent, age, etc.)",
+     "to get to",
+     "to go (so far as ...)"
+    ],
+    [
+     "to reach (of information, instructions, wind, etc.)",
+     "to arrive"
+    ],
+    [
+     "to continue ...",
+     "to go on ...",
+     "to (progress) steadily",
+     "to gradually ...",
+     "to progressively ..."
+    ],
+    [
+     "to have an orgasm",
+     "to come",
+     "to cum"
+    ],
+    [
+     "to trip",
+     "to get high",
+     "to have a drug-induced hallucination"
+    ]
+   ]
+  },
+  "word_1281720": {
+   "seq": 1281720,
+   "surface": "行き先",
+   "reading": "いきさき",
+   "senses": [
+    [
+     "destination"
+    ],
+    [
+     "whereabouts"
+    ],
+    [
+     "future",
+     "prospects"
+    ]
+   ]
+  },
+  "word_1243490": {
+   "seq": 1243490,
+   "surface": "銀行",
+   "reading": "ぎんこう",
+   "senses": [
+    [
+     "bank",
+     "banking institution"
+    ]
+   ]
+  },
+  "word_1553170": {
+   "seq": 1553170,
+   "surface": "旅行",
+   "reading": "りょこう",
+   "senses": [
+    [
+     "travel",
+     "trip",
+     "journey",
+     "excursion",
+     "tour"
+    ]
+   ]
+  },
+  "word_1547720": {
+   "seq": 1547720,
+   "surface": "来る",
+   "reading": "くる",
+   "senses": [
+    [
+     "to come (spatially or temporally)",
+     "to approach",
+     "to arrive"
+    ],
+    [
+     "to come back",
+     "to do ... and come back"
+    ],
+    [
+     "to come to be",
+     "to become",
+     "to get",
+     "to grow",
+     "to continue"
+    ],
+    [
+     "to come from",
+     "to be caused by",
+     "to derive from"
+    ],
+    [
+     "to come to (e.g. \"when it comes to spinach ...\")"
+    ]
+   ]
+  },
+  "word_1012790": {
+   "seq": 1012790,
+   "surface": "やって来る",
+   "reading": "やってくる",
+   "senses": [
+    [
+     "to come along",
+     "to come around",
+     "to turn up"
+    ],
+    [
+     "to arrive at the present",
+     "to get where one is",
+     "to have been doing something (for a period of time)"
+    ]
+   ]
+  },
+  "word_1340450": {
+   "seq": 1340450,
+   "surface": "出来る",
+   "reading": "できる",
+   "senses": [
+    [
+     "to be able to do",
+     "to be possible",
+     "to be permitted (to do)"
+    ],
+    [
+     "to be good at",
+     "to do well",
+     "to be proficient (in)",
+     "to be capable"
+    ],
+    [
+     "to come into existence",
+     "to form",
+     "to appear",
+     "to come up (of a matter)",
+     "to be born",
+     "to make (a friend)",
+     "to get (a girlfriend, free time, etc.)"
+    ],
+    [
+     "to be made",
+     "to be built",
+     "to be constructed",
+     "to be formed",
+     "to be established",
+     "to be set up"
+    ],
+    [
+     "to be finished",
+     "to be completed",
+     "to be done",
+     "to be ready"
+    ],
+    [
+     "to grow (of a crop)",
+     "to be produced"
+    ],
+    [
+     "to be mature and well-balanced",
+     "to be of fine character"
+    ],
+    [
+     "to be by nature",
+     "to be born ..."
+    ],
+    [
+     "to become (sexually) involved (with)",
+     "to become intimate (with)",
+     "to take up (with someone)"
+    ],
+    [
+     "to get pregnant"
+    ]
+   ]
+  },
+  "word_1338240": {
+   "seq": 1338240,
+   "surface": "出る",
+   "reading": "でる",
+   "senses": [
+    [
+     "to leave",
+     "to exit",
+     "to go out",
+     "to come out",
+     "to get out"
+    ],
+    [
+     "to leave (on a journey)",
+     "to depart",
+     "to start out",
+     "to set out"
+    ],
+    [
+     "to move forward"
+    ],
+    [
+     "to come to",
+     "to get to",
+     "to lead to",
+     "to reach"
+    ],
+    [
+     "to appear",
+     "to come out",
+     "to emerge",
+     "to surface",
+     "to come forth",
+     "to turn up",
+     "to be found",
+     "to be detected",
+     "to be discovered",
+     "to be exposed",
+     "to show",
+     "to be exhibited",
+     "to be on display"
+    ],
+    [
+     "to appear (in print)",
+     "to be published",
+     "to be announced",
+     "to be issued",
+     "to be listed",
+     "to come out"
+    ],
+    [
+     "to attend",
+     "to participate",
+     "to take part",
+     "to enter (an event)",
+     "to play in",
+     "to perform"
+    ],
+    [
+     "to be stated",
+     "to be expressed",
+     "to come up",
+     "to be brought up",
+     "to be raised"
+    ],
+    [
+     "to sell"
+    ],
+    [
+     "to exceed",
+     "to go over"
+    ],
+    [
+     "to stick out",
+     "to protrude"
+    ],
+    [
+     "to break out",
+     "to occur",
+     "to start",
+     "to originate"
+    ],
+    [
+     "to be produced"
+    ],
+    [
+     "to come from",
+     "to be derived from"
+    ],
+    [
+     "to be given",
+     "to get",
+     "to receive",
+     "to be offered",
+     "to be provided",
+     "to be presented",
+     "to be submitted",
+     "to be handed in",
+     "to be turned in",
+     "to be paid"
+    ],
+    [
+     "to answer (phone, door, etc.)",
+     "to get"
+    ],
+    [
+     "to assume (an attitude)",
+     "to act",
+     "to behave"
+    ],
+    [
+     "to pick up (speed, etc.)",
+     "to gain"
+    ],
+    [
+     "to flow (e.g. tears)",
+     "to run",
+     "to bleed"
+    ],
+    [
+     "to graduate"
+    ],
+    [
+     "to ejaculate",
+     "to cum"
+    ]
+   ]
+  },
+  "word_1598550": {
+   "seq": 1598550,
+   "surface": "出かける",
+   "reading": "でかける",
+   "senses": [
+    [
+     "to go out (e.g. on an excursion or outing)",
+     "to leave",
+     "to depart",
+     "to start",
+     "to set out"
+    ],
+    [
+     "to be about to leave",
+     "to be just going out"
+    ]
+   ]
+  },
+  "word_1338180": {
+   "seq": 1338180,
+   "surface": "出す",
+   "reading": "だす",
+   "senses": [
+    [
+     "to take out",
+     "to get out"
+    ],
+    [
+     "to put out",
+     "to reveal",
+     "to show"
+    ],
+    [
+     "to submit (e.g. thesis)",
+     "to turn in"
+    ],
+    [
+     "to publish",
+     "to make public"
+    ],
+    [
+     "to send (e.g. letter)"
+    ],
+    [
+     "to produce (a sound)",
+     "to start (fire)"
+    ],
+    [
+     "to serve (food)"
+    ],
+    [
+     "... out (e.g. to jump out, to carry out)"
+    ],
+    [
+     "to begin ...",
+     "to start to ...",
+     "to burst into ..."
+    ]
+   ]
+  },
+  "word_1598530": {
+   "seq": 1598530,
+   "surface": "出会う",
+   "reading": "であう",
+   "senses": [
+    [
+     "to meet (by chance)",
+     "to come across",
+     "to run across",
+     "to encounter",
+     "to happen upon"
+    ],
+    [
+     "to meet (e.g. of rivers, highways, etc.)"
+    ],
+    [
+     "to emerge and engage (an enemy)"
+    ]
+   ]
+  },
+  "word_1465590": {
+   "seq": 1465590,
+   "surface": "入る",
+   "reading": "はいる",
+   "senses": [
+    [
+     "to enter",
+     "to come in",
+     "to go in",
+     "to get in",
+     "to arrive"
+    ],
+    [
+     "to join (a club, company, etc.)",
+     "to enter (a university, the army, etc.)",
+     "to enroll (in)",
+     "to go into (e.g. politics)",
+     "to get into"
+    ],
+    [
+     "to be contained (in)",
+     "to be included (in)",
+     "to be inside (e.g. a box)",
+     "to come under (a heading)",
+     "to belong (in a category)"
+    ],
+    [
+     "to (be able to) fit (in a container, building, etc.)",
+     "to be (able to be) held",
+     "to be (able to be) accommodated"
+    ],
+    [
+     "to be introduced",
+     "to be brought in",
+     "to be installed"
+    ],
+    [
+     "to be received",
+     "to be obtained"
+    ],
+    [
+     "to be scored (of points)",
+     "to be won (of votes)"
+    ],
+    [
+     "to turn on",
+     "to start functioning",
+     "to start working"
+    ],
+    [
+     "to enter (a month, season, etc.)",
+     "to reach (e.g. a climax)",
+     "to get to (e.g. the main topic)",
+     "to enter into (e.g. negotiations)",
+     "to start (doing)",
+     "to begin"
+    ],
+    [
+     "to form (of a crack, fissure, etc.)",
+     "to develop"
+    ],
+    [
+     "to be put in (of effort, spirit, feeling, etc.)",
+     "to be applied (e.g. of strength)"
+    ],
+    [
+     "to be ready (of tea, coffee, etc.)",
+     "to be made"
+    ],
+    [
+     "to enter the body (of alcohol)",
+     "to become drunk"
+    ]
+   ]
+  },
+  "word_1465610": {
+   "seq": 1465610,
+   "surface": "入れる",
+   "reading": "いれる",
+   "senses": [
+    [
+     "to put in",
+     "to let in",
+     "to take in",
+     "to bring in",
+     "to insert",
+     "to install (e.g. software)",
+     "to set (a jewel, etc.)",
+     "to ink in (e.g. tattoo)"
+    ],
+    [
+     "to admit",
+     "to accept",
+     "to employ",
+     "to hire"
+    ],
+    [
+     "to accept",
+     "to comply",
+     "to grant",
+     "to adopt (a policy, etc.)",
+     "to take (advice, etc.)",
+     "to listen to",
+     "to pay attention to"
+    ],
+    [
+     "to include"
+    ],
+    [
+     "to pay (one's rent, etc.)"
+    ],
+    [
+     "to cast (a vote)"
+    ],
+    [
+     "to make (tea, coffee, etc.)"
+    ],
+    [
+     "to turn on (a switch, etc.)"
+    ],
+    [
+     "to send (a fax)",
+     "to call"
+    ]
+   ]
+  },
+  "word_1198180": {
+   "seq": 1198180,
+   "surface": "会う",
+   "reading": "あう",
+   "senses": [
+    [
+     "to meet",
+     "to encounter",
+     "to see"
+    ],
+    [
+     "to have an accident",
+     "to have a bad experience"
+    ]
+   ]
+  },
+  "word_1198550": {
+   "seq": 1198550,
+   "surface": "会社",
+   "reading": "かいしゃ",
+   "senses": [
+    [
+     "company",
+     "corporation",
+     "firm"
+    ],
+    [
+     "one's workplace"
+    ]
+   ]
+  },
+  "word_1322700": {
+   "seq": 1322700,
+   "surface": "社会",
+   "reading": "しゃかい",
+   "senses": [
+    [
+     "society",
+     "public",
+     "community",
+     "the world"
+    ],
+    [
+     "social studies"
+    ]
+   ]
+  },
+  "word_1227560": {
+   "seq": 1227560,
+   "surface": "休む",
+   "reading": "やすむ",
+   "senses": [
+    [
+     "to be absent",
+     "to take a day off"
+    ],
+    [
+     "to rest",
+     "to have a break"
+    ],
+    [
+     "to go to bed",
+     "to (lie down to) sleep",
+     "to turn in",
+     "to retire"
+    ],
+    [
+     "to stop doing some ongoing activity for a time",
+     "to suspend business"
+    ]
+   ]
+  },
+  "word_1227500": {
+   "seq": 1227500,
+   "surface": "休み",
+   "reading": "やすみ",
+   "senses": [
+    [
+     "rest",
+     "recess",
+     "respite"
+    ],
+    [
+     "vacation",
+     "holiday",
+     "absence",
+     "suspension"
+    ],
+    [
+     "dormancy (of a silkworm prior to moulting)"
+    ]
+   ]
+  },
+  "word_1228040": {
+   "seq": 1228040,
+   "surface": "休日",
+   "reading": "きゅうじつ",
+   "senses": [
+    [
+     "holiday",
+     "day off"
+    ]
+   ]
+  },
+  "word_1597040": {
+   "seq": 1597040,
+   "surface": "立つ",
+   "reading": "たつ",
+   "senses": [
+    [
+     "to stand (up)",
+     "to rise",
+     "to get to one's feet",
+     "to stand on end (e.g. of hairs)",
+     "to stick up"
+    ],
+    [
+     "to stand (in a position; of a person, tree, building, etc.)",
+     "to be situated (in, on)"
+    ],
+    [
+     "to be (in difficulties, the lead, etc.)",
+     "to put oneself (in a position or situation)",
+     "to take up (a position, post, etc.)",
+     "to position oneself"
+    ],
+    [
+     "to leave (to do something)"
+    ],
+    [
+     "to depart (on a journey, trip, etc.)",
+     "to leave",
+     "to set off",
+     "to start"
+    ],
+    [
+     "to get stuck (into; of an arrow, thorn etc.)",
+     "to pierce"
+    ],
+    [
+     "to develop (of a haze, waves, etc.)",
+     "to form (of steam, bubbles, etc.)",
+     "to appear (of a rainbow, clouds, etc.)",
+     "to rise (of smoke, waves, etc.)",
+     "to begin to blow (of a wind, breeze, etc.)"
+    ],
+    [
+     "to spread (of a rumour, reputation, etc.)",
+     "to be become widely known"
+    ],
+    [
+     "to stand (for election)",
+     "to run"
+    ],
+    [
+     "to take action",
+     "to act",
+     "to rise (up)",
+     "to rouse oneself"
+    ],
+    [
+     "to have an erection",
+     "to become erect (e.g. of nipples)"
+    ],
+    [
+     "to be established (of a policy, plan, objective, etc.)",
+     "to be formed"
+    ],
+    [
+     "to be valid (of an argument, logic, etc.)",
+     "to hold up",
+     "to hold water",
+     "to stand up (e.g. of evidence)",
+     "to be logical",
+     "to be reasonable"
+    ],
+    [
+     "to be sustained (of a living, business, etc.)",
+     "to be maintained",
+     "to survive",
+     "to be preserved (of one's reputation, honour, etc.)",
+     "to be saved"
+    ],
+    [
+     "to start (of a season)",
+     "to begin"
+    ],
+    [
+     "to be held (of a market)"
+    ],
+    [
+     "to shut (of a door, shoji, etc.)",
+     "to be shut",
+     "to be closed"
+    ],
+    [
+     "to be (the result of a division)"
+    ]
+   ]
+  },
+  "word_1454080": {
+   "seq": 1454080,
+   "surface": "道",
+   "reading": "みち",
+   "senses": [
+    [
+     "road",
+     "path",
+     "street",
+     "lane",
+     "passage"
+    ],
+    [
+     "route",
+     "way"
+    ],
+    [
+     "distance",
+     "journey"
+    ],
+    [
+     "road (e.g. to victory)",
+     "course"
+    ],
+    [
+     "way (of living, proper conduct, etc.)",
+     "moral principles"
+    ],
+    [
+     "teachings (esp. Confucian or Buddhist)",
+     "dogma"
+    ],
+    [
+     "field (e.g. of medicine)",
+     "subject",
+     "speciality"
+    ],
+    [
+     "means",
+     "way",
+     "method"
+    ]
+   ]
+  },
+  "word_1175140": {
+   "seq": 1175140,
+   "surface": "駅",
+   "reading": "えき",
+   "senses": [
+    [
+     "railway station",
+     "train station"
+    ],
+    [
+     "staging post on a highway (in pre-modern Japan)"
+    ],
+    [
+     "counter for railway stations and bus stations"
+    ]
+   ]
+  },
+  "word_1175170": {
+   "seq": 1175170,
+   "surface": "駅前",
+   "reading": "えきまえ",
+   "senses": [
+    [
+     "in front of a station"
+    ]
+   ]
+  },
+  "word_1323080": {
+   "seq": 1323080,
+   "surface": "車",
+   "reading": "くるま",
+   "senses": [
+    [
+     "car",
+     "automobile",
+     "vehicle"
+    ],
+    [
+     "wheel",
+     "castor",
+     "caster"
+    ]
+   ]
+  },
+  "word_1443530": {
+   "seq": 1443530,
+   "surface": "電車",
+   "reading": "でんしゃ",
+   "senses": [
+    [
+     "train",
+     "electric train"
+    ]
+   ]
+  },
+  "word_1471780": {
+   "seq": 1471780,
+   "surface": "馬車",
+   "reading": "ばしゃ",
+   "senses": [
+    [
+     "coach (horse-drawn)",
+     "carriage",
+     "wagon",
+     "cart"
+    ]
+   ]
+  },
+  "word_1443000": {
+   "seq": 1443000,
+   "surface": "電気",
+   "reading": "でんき",
+   "senses": [
+    [
+     "electricity"
+    ],
+    [
+     "(electric) light"
+    ]
+   ]
+  },
+  "word_1592250": {
+   "seq": 1592250,
+   "surface": "国",
+   "reading": "くに",
+   "senses": [
+    [
+     "country",
+     "state"
+    ],
+    [
+     "region"
+    ],
+    [
+     "national government",
+     "central government"
+    ],
+    [
+     "home (i.e. hometown, home country)"
+    ],
+    [
+     "province (of Japan)"
+    ],
+    [
+     "land",
+     "earth"
+    ]
+   ]
+  },
+  "word_2666350": {
+   "seq": 2666350,
+   "surface": "お国",
+   "reading": "おくに",
+   "senses": [
+    [
+     "your native country",
+     "your hometown"
+    ],
+    [
+     "my home country (i.e. Japan)"
+    ],
+    [
+     "countryside",
+     "country"
+    ],
+    [
+     "daimyo's territory (Edo period)"
+    ]
+   ]
+  },
+  "word_1203620": {
+   "seq": 1203620,
+   "surface": "外国",
+   "reading": "がいこく",
+   "senses": [
+    [
+     "foreign country"
+    ]
+   ]
+  },
+  "word_1424270": {
+   "seq": 1424270,
+   "surface": "中国",
+   "reading": "ちゅうごく",
+   "senses": [
+    [
+     "China"
+    ],
+    [
+     "Chūgoku region (western part of Honshu comprising the prefectures of Okayama, Hiroshima, Yamaguchi, Tottori and Shimane)"
+    ],
+    [
+     "central part of a country",
+     "main region"
+    ],
+    [
+     "province of the second lowest rank (ritsuryō system)"
+    ]
+   ]
+  },
+  "word_1286370": {
+   "seq": 1286370,
+   "surface": "国語",
+   "reading": "こくご",
+   "senses": [
+    [
+     "national language"
+    ],
+    [
+     "Japanese language (esp. as a school subject in Japan)"
+    ],
+    [
+     "one's native language",
+     "mother tongue"
+    ],
+    [
+     "native Japanese words (as opposed to loanwords and Chinese-derived words)"
+    ]
+   ]
+  },
+  "word_1582120": {
+   "seq": 1582120,
+   "surface": "店",
+   "reading": "みせ",
+   "senses": [
+    [
+     "store",
+     "shop",
+     "establishment",
+     "restaurant"
+    ]
+   ]
+  },
+  "word_1440720": {
+   "seq": 1440720,
+   "surface": "店先",
+   "reading": "みせさき",
+   "senses": [
+    [
+     "storefront",
+     "shopfront"
+    ]
+   ]
+  },
+  "word_1226440": {
+   "seq": 1226440,
+   "surface": "喫茶店",
+   "reading": "きっさてん",
+   "senses": [
+    [
+     "coffee shop",
+     "tearoom",
+     "coffee lounge",
+     "coffeehouse",
+     "cafe"
+    ],
+    [
+     "kissaten",
+     "traditional type of coffee shop with a retro atmosphere"
+    ]
+   ]
+  },
+  "word_1473740": {
+   "seq": 1473740,
+   "surface": "買う",
+   "reading": "かう",
+   "senses": [
+    [
+     "to buy",
+     "to purchase"
+    ],
+    [
+     "to value (highly)",
+     "to think highly of",
+     "to have a high opinion of",
+     "to appreciate",
+     "to recognize"
+    ],
+    [
+     "to incur (someone's anger, displeasure, etc.)",
+     "to elicit (e.g. sneers)",
+     "to invite (e.g. scorn)",
+     "to evoke",
+     "to arouse",
+     "to win (someone's favour)"
+    ],
+    [
+     "to accept",
+     "to take on",
+     "to take up"
+    ],
+    [
+     "to pay for (a prostitute, geisha, etc.)"
+    ]
+   ]
+  },
+  "word_1589730": {
+   "seq": 1589730,
+   "surface": "買い物",
+   "reading": "かいもの",
+   "senses": [
+    [
+     "shopping",
+     "purchased goods"
+    ]
+   ]
+  },
+  "word_1358280": {
+   "seq": 1358280,
+   "surface": "食べる",
+   "reading": "たべる",
+   "senses": [
+    [
+     "to eat"
+    ],
+    [
+     "to live on (e.g. a salary)",
+     "to live off",
+     "to subsist on"
+    ]
+   ]
+  },
+  "word_1358340": {
+   "seq": 1358340,
+   "surface": "食べ物",
+   "reading": "たべもの",
+   "senses": [
+    [
+     "food"
+    ]
+   ]
+  },
+  "word_1358400": {
+   "seq": 1358400,
+   "surface": "食パン",
+   "reading": "しょくパン",
+   "senses": [
+    [
+     "(loaf of) bread",
+     "bread in a rectangular shape"
+    ]
+   ]
+  },
+  "word_1169870": {
+   "seq": 1169870,
+   "surface": "飲む",
+   "reading": "のむ",
+   "senses": [
+    [
+     "to drink",
+     "to swallow",
+     "to take (medicine)"
+    ],
+    [
+     "to smoke (tobacco)"
+    ],
+    [
+     "to swallow up",
+     "to engulf"
+    ],
+    [
+     "to suppress (one's anger, bitter feelings, etc.)",
+     "to keep down",
+     "to hold back",
+     "to swallow (one's tears)",
+     "to catch (one's breath)"
+    ],
+    [
+     "to accept (a demand, conditions, etc.)",
+     "to agree to"
+    ],
+    [
+     "to make light of (someone)",
+     "to think nothing of",
+     "to overwhelm",
+     "to overawe"
+    ],
+    [
+     "to carry (a concealed dagger, etc.)",
+     "to conceal (up one's sleeve, etc.)"
+    ]
+   ]
+  },
+  "word_1600430": {
+   "seq": 1600430,
+   "surface": "飲み物",
+   "reading": "のみもの",
+   "senses": [
+    [
+     "drink",
+     "beverage"
+    ]
+   ]
+  },
+  "word_1322920": {
+   "seq": 1322920,
+   "surface": "社長",
+   "reading": "しゃちょう",
+   "senses": [
+    [
+     "company president",
+     "manager",
+     "director"
+    ]
+   ]
+  },
+  "word_1283190": {
+   "seq": 1283190,
+   "surface": "高い",
+   "reading": "たかい",
+   "senses": [
+    [
+     "high",
+     "tall"
+    ],
+    [
+     "expensive",
+     "high-priced"
+    ],
+    [
+     "high (level)",
+     "above average (in degree, quality, etc.)"
+    ],
+    [
+     "loud"
+    ],
+    [
+     "high-pitched",
+     "shrill"
+    ]
+   ]
+  },
+  "word_1283200": {
+   "seq": 1283200,
+   "surface": "高さ",
+   "reading": "たかさ",
+   "senses": [
+    [
+     "height",
+     "altitude",
+     "elevation",
+     "level"
+    ],
+    [
+     "altitude",
+     "height"
+    ]
+   ]
+  },
+  "word_1153670": {
+   "seq": 1153670,
+   "surface": "安い",
+   "reading": "やすい",
+   "senses": [
+    [
+     "cheap",
+     "inexpensive"
+    ],
+    [
+     "calm",
+     "peaceful",
+     "quiet"
+    ]
+   ]
+  },
+  "word_1153680": {
+   "seq": 1153680,
+   "surface": "安っぽい",
+   "reading": "やすっぽい",
+   "senses": [
+    [
+     "cheap-looking",
+     "tawdry",
+     "insignificant"
+    ]
+   ]
+  },
+  "word_1352130": {
+   "seq": 1352130,
+   "surface": "上",
+   "reading": "うえ",
+   "senses": [
+    [
+     "above",
+     "over",
+     "up"
+    ],
+    [
+     "top",
+     "summit",
+     "upper part",
+     "head (e.g. of a staircase)"
+    ],
+    [
+     "surface",
+     "on (top of)"
+    ],
+    [
+     "the above (in a piece of writing)",
+     "earlier part"
+    ],
+    [
+     "superior",
+     "better",
+     "higher (position, rank, etc.)",
+     "upper (class)"
+    ],
+    [
+     "elder",
+     "older",
+     "senior"
+    ],
+    [
+     "with respect to ...",
+     "in terms of",
+     "as far as ... is concerned",
+     "when (e.g. drunk)"
+    ],
+    [
+     "besides ...",
+     "in addition to ...",
+     "on top of ...",
+     "as well as ..."
+    ],
+    [
+     "after ...",
+     "upon ...",
+     "on ...",
+     "with (e.g. full awareness)",
+     "as a result of ..."
+    ],
+    [
+     "since ...",
+     "now that ...",
+     "because ..."
+    ],
+    [
+     "honorable",
+     "venerable",
+     "dear"
+    ],
+    [
+     "emperor",
+     "sovereign",
+     "shogun",
+     "daimyo"
+    ]
+   ]
+  },
+  "word_1352290": {
+   "seq": 1352290,
+   "surface": "上がる",
+   "reading": "あがる",
+   "senses": [
+    [
+     "to rise",
+     "to go up",
+     "to come up",
+     "to ascend",
+     "to be raised"
+    ],
+    [
+     "to enter (esp. from outdoors)",
+     "to come in",
+     "to go in"
+    ],
+    [
+     "to enter (a school)",
+     "to advance to the next grade"
+    ],
+    [
+     "to get out (of water)",
+     "to come ashore",
+     "to be washed ashore"
+    ],
+    [
+     "to float atop the water",
+     "to surface from the sea (e.g. of a corpse)",
+     "to rise to the surface"
+    ],
+    [
+     "to increase",
+     "to be raised (e.g. of a salary)",
+     "to rise"
+    ],
+    [
+     "to improve",
+     "to make progress"
+    ],
+    [
+     "to be promoted",
+     "to advance"
+    ],
+    [
+     "to be made (of profit, etc.)"
+    ],
+    [
+     "to occur (esp. of a favourable result)"
+    ],
+    [
+     "to be adequate (to cover expenses, etc.)"
+    ],
+    [
+     "to be finished",
+     "to be done",
+     "to be over"
+    ],
+    [
+     "to stop (of rain)",
+     "to clear up (of weather)"
+    ],
+    [
+     "to stop (working properly)",
+     "to cut out",
+     "to give out",
+     "to die"
+    ],
+    [
+     "to win (in a card game, etc.)"
+    ],
+    [
+     "to be spoken loudly",
+     "to be raised loudly (of a voice)"
+    ],
+    [
+     "to get nervous",
+     "to get stage fright"
+    ],
+    [
+     "to be offered (to the gods, etc.)"
+    ],
+    [
+     "to go",
+     "to visit"
+    ],
+    [
+     "to eat",
+     "to drink"
+    ],
+    [
+     "to serve (in one's master's home)"
+    ],
+    [
+     "to enter a red light district",
+     "to amuse oneself in a red light district",
+     "to visit a brothel"
+    ],
+    [
+     "to arise vigorously (e.g. of voices in excitement)",
+     "to become excited",
+     "to be in uproar (e.g. of a crowd)"
+    ],
+    [
+     "to be complete",
+     "to finish"
+    ],
+    [
+     "adds the connotation of an action happening strongly or violently"
+    ],
+    [
+     "above",
+     "north of"
+    ]
+   ]
+  },
+  "word_1352320": {
+   "seq": 1352320,
+   "surface": "上げる",
+   "reading": "あげる",
+   "senses": [
+    [
+     "to raise",
+     "to elevate"
+    ],
+    [
+     "to move something (to a higher place)",
+     "to put onto (e.g. a shelf)"
+    ],
+    [
+     "to increase (price, quality, status, etc.)",
+     "to raise (a wage)"
+    ],
+    [
+     "to show someone (into a room)",
+     "to let in (e.g. a guest)"
+    ],
+    [
+     "to give"
+    ],
+    [
+     "to enrol (one's child in school)",
+     "to enroll",
+     "to send (one's child; e.g. to college)"
+    ],
+    [
+     "to develop (talent, skill, etc.)",
+     "to improve"
+    ],
+    [
+     "to earn (something desirable)",
+     "to achieve (e.g. a good result)",
+     "to obtain"
+    ],
+    [
+     "to promote (someone)"
+    ],
+    [
+     "to complete",
+     "to finish"
+    ],
+    [
+     "to make (a loud sound)",
+     "to raise (one's voice)"
+    ],
+    [
+     "to raise (one's gaze)",
+     "to lift up (one's face)",
+     "to look up"
+    ],
+    [
+     "to do up (one's hair)"
+    ],
+    [
+     "to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)"
+    ],
+    [
+     "to praise",
+     "to commend",
+     "to flatter"
+    ],
+    [
+     "to make do (with less expenses than expected)",
+     "to cover expenses (with a given amount)",
+     "to set costs"
+    ],
+    [
+     "to finish (one's studies)",
+     "to complete (a lesson)",
+     "to pass (e.g. a class)"
+    ],
+    [
+     "to upload (e.g. an image)",
+     "to publish (on the internet)",
+     "to post"
+    ],
+    [
+     "to raise someone's spirits",
+     "to cheer someone up",
+     "to enhance a mood"
+    ],
+    [
+     "(of the tide) to come in",
+     "to rise"
+    ],
+    [
+     "to increase (of market price)",
+     "to rise (of stock prices)"
+    ],
+    [
+     "to vomit",
+     "to throw up"
+    ],
+    [
+     "to do for (the sake of someone else)"
+    ],
+    [
+     "to complete ..."
+    ],
+    [
+     "to humbly do ..."
+    ]
+   ]
+  },
+  "word_1184140": {
+   "seq": 1184140,
+   "surface": "下",
+   "reading": "した",
+   "senses": [
+    [
+     "below",
+     "down",
+     "under",
+     "younger (e.g. daughter)"
+    ],
+    [
+     "bottom"
+    ],
+    [
+     "beneath",
+     "underneath"
+    ],
+    [
+     "just after",
+     "right after"
+    ],
+    [
+     "inferiority",
+     "one's inferior (i.e. one's junior)"
+    ],
+    [
+     "trade-in"
+    ],
+    [
+     "preliminary",
+     "preparatory"
+    ]
+   ]
+  },
+  "word_1246740": {
+   "seq": 1246740,
+   "surface": "靴下",
+   "reading": "くつした",
+   "senses": [
+    [
+     "socks",
+     "sock",
+     "stockings",
+     "stocking"
+    ]
+   ]
+  },
+  "word_1184160": {
+   "seq": 1184160,
+   "surface": "下がる",
+   "reading": "さがる",
+   "senses": [
+    [
+     "to come down",
+     "to go down",
+     "to fall",
+     "to drop",
+     "to sink",
+     "to get lower"
+    ],
+    [
+     "to hang",
+     "to dangle"
+    ],
+    [
+     "to move back",
+     "to step back",
+     "to withdraw",
+     "to retire"
+    ],
+    [
+     "to deteriorate",
+     "to fall off",
+     "to be downgraded"
+    ],
+    [
+     "to get closer to the present day"
+    ],
+    [
+     "to play a sagari",
+     "to extend downwards"
+    ]
+   ]
+  },
+  "word_1184170": {
+   "seq": 1184170,
+   "surface": "下げる",
+   "reading": "さげる",
+   "senses": [
+    [
+     "to hang",
+     "to suspend",
+     "to wear (e.g. decoration)"
+    ],
+    [
+     "to lower",
+     "to reduce",
+     "to bring down"
+    ],
+    [
+     "to demote",
+     "to move back",
+     "to pull back"
+    ],
+    [
+     "to clear (plates)",
+     "to remove (food, etc. from table or altar)"
+    ],
+    [
+     "to keep on playing after one has formed a scoring combination with captured cards"
+    ]
+   ]
+  },
+  "word_1184270": {
+   "seq": 1184270,
+   "surface": "下さい",
+   "reading": "ください",
+   "senses": [
+    [
+     "please (give me)"
+    ],
+    [
+     "please (do for me)"
+    ]
+   ]
+  },
+  "word_1290800": {
+   "seq": 1290800,
+   "surface": "左",
+   "reading": "ひだり",
+   "senses": [
+    [
+     "left",
+     "left-hand side"
+    ],
+    [
+     "left hand"
+    ],
+    [
+     "the left (wing)",
+     "leftist"
+    ],
+    [
+     "fondness for alcohol",
+     "drinker"
+    ]
+   ]
+  },
+  "word_1171010": {
+   "seq": 1171010,
+   "surface": "右",
+   "reading": "みぎ",
+   "senses": [
+    [
+     "right",
+     "right-hand side"
+    ],
+    [
+     "right hand"
+    ],
+    [
+     "the above (in a piece of vertical writing)",
+     "above-mentioned"
+    ],
+    [
+     "the right (wing)",
+     "rightist"
+    ],
+    [
+     "the better (of two)"
+    ]
+   ]
+  },
+  "word_1423310": {
+   "seq": 1423310,
+   "surface": "中",
+   "reading": "なか",
+   "senses": [
+    [
+     "inside",
+     "interior"
+    ],
+    [
+     "among",
+     "within"
+    ],
+    [
+     "middle",
+     "center",
+     "centre"
+    ],
+    [
+     "during",
+     "while",
+     "middle",
+     "midst",
+     "amid"
+    ],
+    [
+     "interval",
+     "gap"
+    ],
+    [
+     "mean",
+     "average"
+    ],
+    [
+     "second (of three, e.g. sons, volumes)",
+     "middle"
+    ],
+    [
+     "medium grade",
+     "medium quality"
+    ],
+    [
+     "red-light district"
+    ]
+   ]
+  },
+  "word_1472800": {
+   "seq": 1472800,
+   "surface": "背中",
+   "reading": "せなか",
+   "senses": [
+    [
+     "back (of the body)"
+    ]
+   ]
+  },
+  "word_1203250": {
+   "seq": 1203250,
+   "surface": "外",
+   "reading": "そと",
+   "senses": [
+    [
+     "outside",
+     "exterior"
+    ],
+    [
+     "the open (air)"
+    ],
+    [
+     "other place",
+     "somewhere else",
+     "outside one's group (family, company, etc.)"
+    ]
+   ]
+  },
+  "word_1577440": {
+   "seq": 1577440,
+   "surface": "外側",
+   "reading": "そとがわ",
+   "senses": [
+    [
+     "exterior",
+     "outside",
+     "outer",
+     "external",
+     "lateral"
+    ]
+   ]
+  },
+  "word_1520670": {
+   "seq": 1520670,
+   "surface": "北",
+   "reading": "きた",
+   "senses": [
+    [
+     "north"
+    ],
+    [
+     "the North",
+     "northern territories"
+    ],
+    [
+     "North Korea"
+    ],
+    [
+     "north wind"
+    ]
+   ]
+  },
+  "word_1520970": {
+   "seq": 1520970,
+   "surface": "北口",
+   "reading": "きたぐち",
+   "senses": [
+    [
+     "north entrance",
+     "north exit"
+    ]
+   ]
+  },
+  "word_1584210": {
+   "seq": 1584210,
+   "surface": "北風",
+   "reading": "きたかぜ",
+   "senses": [
+    [
+     "north wind",
+     "northerly wind"
+    ]
+   ]
+  },
+  "word_1459870": {
+   "seq": 1459870,
+   "surface": "南",
+   "reading": "みなみ",
+   "senses": [
+    [
+     "south"
+    ]
+   ]
+  },
+  "word_1460280": {
+   "seq": 1460280,
+   "surface": "南口",
+   "reading": "みなみぐち",
+   "senses": [
+    [
+     "south entrance",
+     "south exit"
+    ]
+   ]
+  },
+  "word_1447440": {
+   "seq": 1447440,
+   "surface": "東",
+   "reading": "ひがし",
+   "senses": [
+    [
+     "east"
+    ]
+   ]
+  },
+  "word_1447790": {
+   "seq": 1447790,
+   "surface": "東口",
+   "reading": "ひがしぐち",
+   "senses": [
+    [
+     "east entrance",
+     "east exit"
+    ]
+   ]
+  },
+  "word_1380840": {
+   "seq": 1380840,
+   "surface": "西",
+   "reading": "にし",
+   "senses": [
+    [
+     "west"
+    ]
+   ]
+  },
+  "word_1380950": {
+   "seq": 1380950,
+   "surface": "西口",
+   "reading": "にしぐち",
+   "senses": [
+    [
+     "west entrance",
+     "west exit"
+    ]
+   ]
+  },
+  "word_1381010": {
+   "seq": 1381010,
+   "surface": "西日",
+   "reading": "にしび",
+   "senses": [
+    [
+     "westering sun",
+     "setting sun",
+     "afternoon sun"
+    ]
+   ]
+  },
+  "word_1588880": {
+   "seq": 1588880,
+   "surface": "大きい",
+   "reading": "おおきい",
+   "senses": [
+    [
+     "big",
+     "large",
+     "great"
+    ],
+    [
+     "loud"
+    ],
+    [
+     "extensive",
+     "spacious"
+    ],
+    [
+     "important",
+     "decisive",
+     "valuable"
+    ],
+    [
+     "older",
+     "grown-up"
+    ]
+   ]
+  },
+  "word_1412890": {
+   "seq": 1412890,
+   "surface": "大きな",
+   "reading": "おおきな",
+   "senses": [
+    [
+     "big",
+     "large",
+     "great"
+    ]
+   ]
+  },
+  "word_1413660": {
+   "seq": 1413660,
+   "surface": "大好き",
+   "reading": "だいすき",
+   "senses": [
+    [
+     "liking very much",
+     "loving (something or someone)",
+     "adoring",
+     "being very fond of"
+    ]
+   ]
+  },
+  "word_1347750": {
+   "seq": 1347750,
+   "surface": "小さい",
+   "reading": "ちいさい",
+   "senses": [
+    [
+     "small",
+     "little",
+     "tiny"
+    ],
+    [
+     "slight",
+     "below average (in degree, amount, etc.)",
+     "minor",
+     "small"
+    ],
+    [
+     "low (e.g. sound)",
+     "soft (e.g. voice)"
+    ],
+    [
+     "unimportant",
+     "petty",
+     "insignificant",
+     "trifling",
+     "trivial"
+    ],
+    [
+     "young",
+     "juvenile"
+    ]
+   ]
+  },
+  "word_2136180": {
+   "seq": 2136180,
+   "surface": "小さな",
+   "reading": "ちいさな",
+   "senses": [
+    [
+     "small",
+     "little",
+     "tiny"
+    ]
+   ]
+  },
+  "word_1407460": {
+   "seq": 1407460,
+   "surface": "多い",
+   "reading": "おおい",
+   "senses": [
+    [
+     "many",
+     "numerous",
+     "a lot"
+    ],
+    [
+     "large amount of",
+     "large quantity of",
+     "a lot",
+     "much"
+    ],
+    [
+     "frequent",
+     "common"
+    ]
+   ]
+  },
+  "word_1953410": {
+   "seq": 1953410,
+   "surface": "多め",
+   "reading": "おおめ",
+   "senses": [
+    [
+     "somewhat larger (amount)",
+     "quite a lot",
+     "a little more (than usual)",
+     "a little extra"
+    ]
+   ]
+  },
+  "word_1407810": {
+   "seq": 1407810,
+   "surface": "多少",
+   "reading": "たしょう",
+   "senses": [
+    [
+     "a little",
+     "some",
+     "somewhat",
+     "slightly",
+     "to some degree",
+     "to some extent"
+    ],
+    [
+     "amount",
+     "quantity",
+     "number"
+    ]
+   ]
+  },
+  "word_1348910": {
+   "seq": 1348910,
+   "surface": "少ない",
+   "reading": "すくない",
+   "senses": [
+    [
+     "few",
+     "little",
+     "small (amount)",
+     "low",
+     "scarce",
+     "insufficient",
+     "seldom",
+     "rare"
+    ]
+   ]
+  },
+  "word_1348870": {
+   "seq": 1348870,
+   "surface": "少し",
+   "reading": "すこし",
+   "senses": [
+    [
+     "a little",
+     "a bit",
+     "a small amount",
+     "a few",
+     "some",
+     "slightly",
+     "somewhat"
+    ],
+    [
+     "a little while",
+     "a short time",
+     "a moment",
+     "a minute"
+    ],
+    [
+     "a little way",
+     "a short distance"
+    ]
+   ]
+  },
+  "word_1349170": {
+   "seq": 1349170,
+   "surface": "少年",
+   "reading": "しょうねん",
+   "senses": [
+    [
+     "boy"
+    ],
+    [
+     "juvenile",
+     "child"
+    ]
+   ]
+  },
+  "word_1429750": {
+   "seq": 1429750,
+   "surface": "長い",
+   "reading": "ながい",
+   "senses": [
+    [
+     "long (distance, length)"
+    ],
+    [
+     "long (time)",
+     "protracted",
+     "prolonged"
+    ]
+   ]
+  },
+  "word_1429770": {
+   "seq": 1429770,
+   "surface": "長さ",
+   "reading": "ながさ",
+   "senses": [
+    [
+     "length"
+    ]
+   ]
+  },
+  "word_1361490": {
+   "seq": 1361490,
+   "surface": "新しい",
+   "reading": "あたらしい",
+   "senses": [
+    [
+     "new",
+     "novel",
+     "fresh",
+     "recent",
+     "latest",
+     "up-to-date",
+     "modern"
+    ]
+   ]
+  },
+  "word_1361510": {
+   "seq": 1361510,
+   "surface": "新た",
+   "reading": "あらた",
+   "senses": [
+    [
+     "new",
+     "fresh",
+     "novel"
+    ]
+   ]
+  },
+  "word_1265070": {
+   "seq": 1265070,
+   "surface": "古い",
+   "reading": "ふるい",
+   "senses": [
+    [
+     "old",
+     "aged",
+     "ancient",
+     "antiquated",
+     "antique",
+     "timeworn"
+    ],
+    [
+     "long",
+     "since long ago",
+     "time-honored"
+    ],
+    [
+     "of the distant past",
+     "long-ago"
+    ],
+    [
+     "stale",
+     "threadbare",
+     "hackneyed",
+     "corny"
+    ],
+    [
+     "old-fashioned",
+     "outmoded",
+     "out-of-date"
+    ]
+   ]
+  },
+  "word_1424150": {
+   "seq": 1424150,
+   "surface": "中古",
+   "reading": "ちゅうこ",
+   "senses": [
+    [
+     "used",
+     "second-hand",
+     "old"
+    ],
+    [
+     "Middle Ages (in Japan esp. Heian period)"
+    ]
+   ]
+  },
+  "word_1474910": {
+   "seq": 1474910,
+   "surface": "白い",
+   "reading": "しろい",
+   "senses": [
+    [
+     "white"
+    ],
+    [
+     "blank (e.g. paper)",
+     "uncolored",
+     "unmarked",
+     "spotless",
+     "immaculate"
+    ],
+    [
+     "innocent",
+     "not guilty",
+     "pure"
+    ],
+    [
+     "bright",
+     "vivid"
+    ],
+    [
+     "inexperienced",
+     "naive",
+     "unrefined"
+    ]
+   ]
+  },
+  "word_1474900": {
+   "seq": 1474900,
+   "surface": "白",
+   "reading": "しろ",
+   "senses": [
+    [
+     "white"
+    ],
+    [
+     "innocence",
+     "innocent person"
+    ],
+    [
+     "blank space"
+    ],
+    [
+     "white stone"
+    ],
+    [
+     "white dragon tile"
+    ],
+    [
+     "skewered grilled pig intestine"
+    ]
+   ]
+  },
+  "word_1533580": {
+   "seq": 1533580,
+   "surface": "面白い",
+   "reading": "おもしろい",
+   "senses": [
+    [
+     "interesting",
+     "fascinating",
+     "intriguing",
+     "enthralling"
+    ],
+    [
+     "amusing",
+     "funny",
+     "comical"
+    ],
+    [
+     "enjoyable",
+     "fun",
+     "entertaining",
+     "pleasant",
+     "agreeable"
+    ],
+    [
+     "good",
+     "satisfactory",
+     "favourable",
+     "desirable",
+     "encouraging"
+    ]
+   ]
+  }
+ }
+}

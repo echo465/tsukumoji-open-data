@@ -1,0 +1,2184 @@
+{
+ "_meta": {
+  "generator": "build-kana-db.py v0.4.0 (Kanagame content pipeline)",
+  "license": "CC BY-SA 4.0 (EDRDG licence)",
+  "attribution": "This extract uses the KANJIDIC dictionary file. That file is the property of the Electronic Dictionary Research and Development Group, and is used in conformance with the Group's licence (https://www.edrdg.org/edrdg/licence.html). See EDRDG-LICENCE.txt and ATTRIBUTION.md in this directory. As an adaptation of a CC BY-SA 4.0 work this file is itself CC BY-SA 4.0.",
+  "source": "KANJIDIC2, database_version 2026-235",
+  "count": 103,
+  "isolationNote": "The game DB (data/content/kanji-db.json) references entries here by opaque kd_ id only; no EDRDG meaning/reading text is copied outside this directory."
+ },
+ "kanji": {
+  "kd_5b89": {
+   "literal": "安",
+   "codepoint": "U+5B89",
+   "strokeCount": 6,
+   "grade": 3,
+   "jlptOld": 4,
+   "freq": 144,
+   "meanings": [
+    "relax",
+    "cheap",
+    "low",
+    "quiet",
+    "rested",
+    "contented",
+    "peaceful"
+   ],
+   "onReadings": [
+    "アン"
+   ],
+   "kunReadings": [
+    "やす.い",
+    "やす.まる",
+    "やす",
+    "やす.らか"
+   ]
+  },
+  "kd_4e00": {
+   "literal": "一",
+   "codepoint": "U+4E00",
+   "strokeCount": 1,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 2,
+   "meanings": [
+    "one",
+    "one radical (no.1)"
+   ],
+   "onReadings": [
+    "イチ",
+    "イツ"
+   ],
+   "kunReadings": [
+    "ひと-",
+    "ひと.つ"
+   ]
+  },
+  "kd_98f2": {
+   "literal": "飲",
+   "codepoint": "U+98F2",
+   "strokeCount": 12,
+   "grade": 3,
+   "jlptOld": 4,
+   "freq": 969,
+   "meanings": [
+    "drink",
+    "smoke",
+    "take"
+   ],
+   "onReadings": [
+    "イン",
+    "オン"
+   ],
+   "kunReadings": [
+    "の.む",
+    "-の.み"
+   ]
+  },
+  "kd_53f3": {
+   "literal": "右",
+   "codepoint": "U+53F3",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 602,
+   "meanings": [
+    "right"
+   ],
+   "onReadings": [
+    "ウ",
+    "ユウ"
+   ],
+   "kunReadings": [
+    "みぎ"
+   ]
+  },
+  "kd_96e8": {
+   "literal": "雨",
+   "codepoint": "U+96E8",
+   "strokeCount": 8,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 950,
+   "meanings": [
+    "rain"
+   ],
+   "onReadings": [
+    "ウ"
+   ],
+   "kunReadings": [
+    "あめ",
+    "あま-",
+    "-さめ"
+   ]
+  },
+  "kd_99c5": {
+   "literal": "駅",
+   "codepoint": "U+99C5",
+   "strokeCount": 14,
+   "grade": 3,
+   "jlptOld": 4,
+   "freq": 724,
+   "meanings": [
+    "station"
+   ],
+   "onReadings": [
+    "エキ"
+   ],
+   "kunReadings": []
+  },
+  "kd_5186": {
+   "literal": "円",
+   "codepoint": "U+5186",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 69,
+   "meanings": [
+    "circle",
+    "yen",
+    "round"
+   ],
+   "onReadings": [
+    "エン"
+   ],
+   "kunReadings": [
+    "まる.い",
+    "まる",
+    "まど",
+    "まど.か",
+    "まろ.やか"
+   ]
+  },
+  "kd_4e0b": {
+   "literal": "下",
+   "codepoint": "U+4E0B",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 97,
+   "meanings": [
+    "below",
+    "down",
+    "descend",
+    "give",
+    "low",
+    "inferior"
+   ],
+   "onReadings": [
+    "カ",
+    "ゲ"
+   ],
+   "kunReadings": [
+    "した",
+    "しも",
+    "もと",
+    "さ.げる",
+    "さ.がる",
+    "くだ.る",
+    "くだ.り",
+    "くだ.す",
+    "-くだ.す",
+    "くだ.さる",
+    "お.ろす",
+    "お.りる"
+   ]
+  },
+  "kd_4f55": {
+   "literal": "何",
+   "codepoint": "U+4F55",
+   "strokeCount": 7,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 340,
+   "meanings": [
+    "what"
+   ],
+   "onReadings": [
+    "カ"
+   ],
+   "kunReadings": [
+    "なに",
+    "なん",
+    "なに-",
+    "なん-"
+   ]
+  },
+  "kd_706b": {
+   "literal": "火",
+   "codepoint": "U+706B",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 574,
+   "meanings": [
+    "fire"
+   ],
+   "onReadings": [
+    "カ"
+   ],
+   "kunReadings": [
+    "ひ",
+    "-び",
+    "ほ-"
+   ]
+  },
+  "kd_82b1": {
+   "literal": "花",
+   "codepoint": "U+82B1",
+   "strokeCount": 7,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 578,
+   "meanings": [
+    "flower"
+   ],
+   "onReadings": [
+    "カ",
+    "ケ"
+   ],
+   "kunReadings": [
+    "はな"
+   ]
+  },
+  "kd_4f1a": {
+   "literal": "会",
+   "codepoint": "U+4F1A",
+   "strokeCount": 6,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 4,
+   "meanings": [
+    "meeting",
+    "meet",
+    "party",
+    "association",
+    "interview",
+    "join"
+   ],
+   "onReadings": [
+    "カイ",
+    "エ"
+   ],
+   "kunReadings": [
+    "あ.う",
+    "あ.わせる",
+    "あつ.まる"
+   ]
+  },
+  "kd_5916": {
+   "literal": "外",
+   "codepoint": "U+5916",
+   "strokeCount": 5,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 81,
+   "meanings": [
+    "outside"
+   ],
+   "onReadings": [
+    "ガイ",
+    "ゲ"
+   ],
+   "kunReadings": [
+    "そと",
+    "ほか",
+    "はず.す",
+    "はず.れる",
+    "と-"
+   ]
+  },
+  "kd_5b66": {
+   "literal": "学",
+   "codepoint": "U+5B66",
+   "strokeCount": 8,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 63,
+   "meanings": [
+    "study",
+    "learning",
+    "science"
+   ],
+   "onReadings": [
+    "ガク"
+   ],
+   "kunReadings": [
+    "まな.ぶ"
+   ]
+  },
+  "kd_9593": {
+   "literal": "間",
+   "codepoint": "U+9593",
+   "strokeCount": 12,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 33,
+   "meanings": [
+    "interval",
+    "space"
+   ],
+   "onReadings": [
+    "カン",
+    "ケン"
+   ],
+   "kunReadings": [
+    "あいだ",
+    "ま",
+    "あい"
+   ]
+  },
+  "kd_6c17": {
+   "literal": "気",
+   "codepoint": "U+6C17",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 113,
+   "meanings": [
+    "spirit",
+    "mind",
+    "air",
+    "atmosphere",
+    "mood"
+   ],
+   "onReadings": [
+    "キ",
+    "ケ"
+   ],
+   "kunReadings": [
+    "いき",
+    "き"
+   ]
+  },
+  "kd_4f11": {
+   "literal": "休",
+   "codepoint": "U+4F11",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 642,
+   "meanings": [
+    "rest",
+    "day off",
+    "retire",
+    "sleep"
+   ],
+   "onReadings": [
+    "キュウ"
+   ],
+   "kunReadings": [
+    "やす.む",
+    "やす.まる",
+    "やす.める"
+   ]
+  },
+  "kd_9b5a": {
+   "literal": "魚",
+   "codepoint": "U+9B5A",
+   "strokeCount": 11,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 1208,
+   "meanings": [
+    "fish"
+   ],
+   "onReadings": [
+    "ギョ"
+   ],
+   "kunReadings": [
+    "うお",
+    "さかな",
+    "-ざかな"
+   ]
+  },
+  "kd_91d1": {
+   "literal": "金",
+   "codepoint": "U+91D1",
+   "strokeCount": 8,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 53,
+   "meanings": [
+    "gold"
+   ],
+   "onReadings": [
+    "キン",
+    "コン",
+    "ゴン"
+   ],
+   "kunReadings": [
+    "かね",
+    "かな-",
+    "-がね"
+   ]
+  },
+  "kd_4e5d": {
+   "literal": "九",
+   "codepoint": "U+4E5D",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 55,
+   "meanings": [
+    "nine"
+   ],
+   "onReadings": [
+    "キュウ",
+    "ク"
+   ],
+   "kunReadings": [
+    "ここの",
+    "ここの.つ"
+   ]
+  },
+  "kd_7a7a": {
+   "literal": "空",
+   "codepoint": "U+7A7A",
+   "strokeCount": 8,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 304,
+   "meanings": [
+    "empty",
+    "sky",
+    "void",
+    "vacant",
+    "vacuum"
+   ],
+   "onReadings": [
+    "クウ"
+   ],
+   "kunReadings": [
+    "そら",
+    "あ.く",
+    "あ.き",
+    "あ.ける",
+    "から",
+    "す.く",
+    "す.かす",
+    "むな.しい"
+   ]
+  },
+  "kd_6708": {
+   "literal": "月",
+   "codepoint": "U+6708",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 23,
+   "meanings": [
+    "month",
+    "moon"
+   ],
+   "onReadings": [
+    "ゲツ",
+    "ガツ"
+   ],
+   "kunReadings": [
+    "つき"
+   ]
+  },
+  "kd_898b": {
+   "literal": "見",
+   "codepoint": "U+898B",
+   "strokeCount": 7,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 22,
+   "meanings": [
+    "see",
+    "hopes",
+    "chances",
+    "idea",
+    "opinion",
+    "look at",
+    "visible"
+   ],
+   "onReadings": [
+    "ケン"
+   ],
+   "kunReadings": [
+    "み.る",
+    "み.える",
+    "み.せる"
+   ]
+  },
+  "kd_8a00": {
+   "literal": "言",
+   "codepoint": "U+8A00",
+   "strokeCount": 7,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 83,
+   "meanings": [
+    "say",
+    "word"
+   ],
+   "onReadings": [
+    "ゲン",
+    "ゴン"
+   ],
+   "kunReadings": [
+    "い.う",
+    "こと"
+   ]
+  },
+  "kd_53e4": {
+   "literal": "古",
+   "codepoint": "U+53E4",
+   "strokeCount": 5,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 509,
+   "meanings": [
+    "old"
+   ],
+   "onReadings": [
+    "コ"
+   ],
+   "kunReadings": [
+    "ふる.い",
+    "ふる-",
+    "-ふる.す"
+   ]
+  },
+  "kd_4e94": {
+   "literal": "五",
+   "codepoint": "U+4E94",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 31,
+   "meanings": [
+    "five"
+   ],
+   "onReadings": [
+    "ゴ"
+   ],
+   "kunReadings": [
+    "いつ",
+    "いつ.つ"
+   ]
+  },
+  "kd_5348": {
+   "literal": "午",
+   "codepoint": "U+5348",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 154,
+   "meanings": [
+    "noon",
+    "sign of the horse",
+    "11AM-1PM",
+    "seventh sign of Chinese zodiac"
+   ],
+   "onReadings": [
+    "ゴ"
+   ],
+   "kunReadings": [
+    "うま"
+   ]
+  },
+  "kd_5f8c": {
+   "literal": "後",
+   "codepoint": "U+5F8C",
+   "strokeCount": 9,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 26,
+   "meanings": [
+    "behind",
+    "back",
+    "later"
+   ],
+   "onReadings": [
+    "ゴ",
+    "コウ"
+   ],
+   "kunReadings": [
+    "のち",
+    "うし.ろ",
+    "うしろ",
+    "あと",
+    "おく.れる"
+   ]
+  },
+  "kd_8a9e": {
+   "literal": "語",
+   "codepoint": "U+8A9E",
+   "strokeCount": 14,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 301,
+   "meanings": [
+    "word",
+    "speech",
+    "language"
+   ],
+   "onReadings": [
+    "ゴ"
+   ],
+   "kunReadings": [
+    "かた.る",
+    "かた.らう"
+   ]
+  },
+  "kd_53e3": {
+   "literal": "口",
+   "codepoint": "U+53E3",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 284,
+   "meanings": [
+    "mouth"
+   ],
+   "onReadings": [
+    "コウ",
+    "ク"
+   ],
+   "kunReadings": [
+    "くち"
+   ]
+  },
+  "kd_6821": {
+   "literal": "校",
+   "codepoint": "U+6821",
+   "strokeCount": 10,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 294,
+   "meanings": [
+    "exam",
+    "school",
+    "printing",
+    "proof",
+    "correction"
+   ],
+   "onReadings": [
+    "コウ",
+    "キョウ"
+   ],
+   "kunReadings": []
+  },
+  "kd_884c": {
+   "literal": "行",
+   "codepoint": "U+884C",
+   "strokeCount": 6,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 20,
+   "meanings": [
+    "going",
+    "journey",
+    "carry out",
+    "conduct",
+    "act",
+    "line",
+    "row",
+    "bank"
+   ],
+   "onReadings": [
+    "コウ",
+    "ギョウ",
+    "アン"
+   ],
+   "kunReadings": [
+    "い.く",
+    "ゆ.く",
+    "-ゆ.き",
+    "-ゆき",
+    "-い.き",
+    "-いき",
+    "おこな.う",
+    "おこ.なう"
+   ]
+  },
+  "kd_9ad8": {
+   "literal": "高",
+   "codepoint": "U+9AD8",
+   "strokeCount": 10,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 65,
+   "meanings": [
+    "tall",
+    "high",
+    "expensive"
+   ],
+   "onReadings": [
+    "コウ"
+   ],
+   "kunReadings": [
+    "たか.い",
+    "たか",
+    "-だか",
+    "たか.まる",
+    "たか.める"
+   ]
+  },
+  "kd_56fd": {
+   "literal": "国",
+   "codepoint": "U+56FD",
+   "strokeCount": 8,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 3,
+   "meanings": [
+    "country"
+   ],
+   "onReadings": [
+    "コク"
+   ],
+   "kunReadings": [
+    "くに"
+   ]
+  },
+  "kd_4eca": {
+   "literal": "今",
+   "codepoint": "U+4ECA",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 49,
+   "meanings": [
+    "now"
+   ],
+   "onReadings": [
+    "コン",
+    "キン"
+   ],
+   "kunReadings": [
+    "いま"
+   ]
+  },
+  "kd_5de6": {
+   "literal": "左",
+   "codepoint": "U+5DE6",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 630,
+   "meanings": [
+    "left"
+   ],
+   "onReadings": [
+    "サ",
+    "シャ"
+   ],
+   "kunReadings": [
+    "ひだり"
+   ]
+  },
+  "kd_4e09": {
+   "literal": "三",
+   "codepoint": "U+4E09",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 14,
+   "meanings": [
+    "three"
+   ],
+   "onReadings": [
+    "サン",
+    "ゾウ"
+   ],
+   "kunReadings": [
+    "み",
+    "み.つ",
+    "みっ.つ"
+   ]
+  },
+  "kd_5c71": {
+   "literal": "山",
+   "codepoint": "U+5C71",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 131,
+   "meanings": [
+    "mountain"
+   ],
+   "onReadings": [
+    "サン",
+    "セン"
+   ],
+   "kunReadings": [
+    "やま"
+   ]
+  },
+  "kd_56db": {
+   "literal": "四",
+   "codepoint": "U+56DB",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 47,
+   "meanings": [
+    "four"
+   ],
+   "onReadings": [
+    "シ"
+   ],
+   "kunReadings": [
+    "よ",
+    "よ.つ",
+    "よっ.つ",
+    "よん"
+   ]
+  },
+  "kd_5b50": {
+   "literal": "子",
+   "codepoint": "U+5B50",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 72,
+   "meanings": [
+    "child",
+    "sign of the rat",
+    "11PM-1AM",
+    "first sign of Chinese zodiac"
+   ],
+   "onReadings": [
+    "シ",
+    "ス",
+    "ツ"
+   ],
+   "kunReadings": [
+    "こ",
+    "-こ",
+    "ね"
+   ]
+  },
+  "kd_6642": {
+   "literal": "時",
+   "codepoint": "U+6642",
+   "strokeCount": 10,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 16,
+   "meanings": [
+    "time",
+    "hour"
+   ],
+   "onReadings": [
+    "ジ"
+   ],
+   "kunReadings": [
+    "とき",
+    "-どき"
+   ]
+  },
+  "kd_8033": {
+   "literal": "耳",
+   "codepoint": "U+8033",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 1328,
+   "meanings": [
+    "ear"
+   ],
+   "onReadings": [
+    "ジ"
+   ],
+   "kunReadings": [
+    "みみ"
+   ]
+  },
+  "kd_4e03": {
+   "literal": "七",
+   "codepoint": "U+4E03",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 115,
+   "meanings": [
+    "seven"
+   ],
+   "onReadings": [
+    "シチ"
+   ],
+   "kunReadings": [
+    "なな",
+    "なな.つ",
+    "なの"
+   ]
+  },
+  "kd_793e": {
+   "literal": "社",
+   "codepoint": "U+793E",
+   "strokeCount": 7,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 21,
+   "meanings": [
+    "company",
+    "firm",
+    "office",
+    "association",
+    "shrine"
+   ],
+   "onReadings": [
+    "シャ"
+   ],
+   "kunReadings": [
+    "やしろ"
+   ]
+  },
+  "kd_8eca": {
+   "literal": "車",
+   "codepoint": "U+8ECA",
+   "strokeCount": 7,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 333,
+   "meanings": [
+    "car"
+   ],
+   "onReadings": [
+    "シャ"
+   ],
+   "kunReadings": [
+    "くるま"
+   ]
+  },
+  "kd_624b": {
+   "literal": "手",
+   "codepoint": "U+624B",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 60,
+   "meanings": [
+    "hand"
+   ],
+   "onReadings": [
+    "シュ",
+    "ズ"
+   ],
+   "kunReadings": [
+    "て",
+    "て-",
+    "-て",
+    "た-"
+   ]
+  },
+  "kd_9031": {
+   "literal": "週",
+   "codepoint": "U+9031",
+   "strokeCount": 11,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 540,
+   "meanings": [
+    "week"
+   ],
+   "onReadings": [
+    "シュウ"
+   ],
+   "kunReadings": []
+  },
+  "kd_5341": {
+   "literal": "十",
+   "codepoint": "U+5341",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 8,
+   "meanings": [
+    "ten"
+   ],
+   "onReadings": [
+    "ジュウ",
+    "ジッ",
+    "ジュッ"
+   ],
+   "kunReadings": [
+    "とお",
+    "と",
+    "そ"
+   ]
+  },
+  "kd_51fa": {
+   "literal": "出",
+   "codepoint": "U+51FA",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 13,
+   "meanings": [
+    "exit",
+    "leave",
+    "go out",
+    "come out",
+    "put out",
+    "protrude"
+   ],
+   "onReadings": [
+    "シュツ",
+    "スイ"
+   ],
+   "kunReadings": [
+    "で.る",
+    "-で",
+    "だ.す",
+    "-だ.す",
+    "い.でる",
+    "い.だす"
+   ]
+  },
+  "kd_66f8": {
+   "literal": "書",
+   "codepoint": "U+66F8",
+   "strokeCount": 10,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 169,
+   "meanings": [
+    "write"
+   ],
+   "onReadings": [
+    "ショ"
+   ],
+   "kunReadings": [
+    "か.く",
+    "-が.き",
+    "-がき"
+   ]
+  },
+  "kd_5973": {
+   "literal": "女",
+   "codepoint": "U+5973",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 151,
+   "meanings": [
+    "woman",
+    "female"
+   ],
+   "onReadings": [
+    "ジョ",
+    "ニョ",
+    "ニョウ"
+   ],
+   "kunReadings": [
+    "おんな",
+    "め"
+   ]
+  },
+  "kd_5c0f": {
+   "literal": "小",
+   "codepoint": "U+5C0F",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 114,
+   "meanings": [
+    "little",
+    "small"
+   ],
+   "onReadings": [
+    "ショウ"
+   ],
+   "kunReadings": [
+    "ちい.さい",
+    "こ-",
+    "お-",
+    "さ-"
+   ]
+  },
+  "kd_5c11": {
+   "literal": "少",
+   "codepoint": "U+5C11",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 287,
+   "meanings": [
+    "few",
+    "little"
+   ],
+   "onReadings": [
+    "ショウ"
+   ],
+   "kunReadings": [
+    "すく.ない",
+    "すこ.し"
+   ]
+  },
+  "kd_4e0a": {
+   "literal": "上",
+   "codepoint": "U+4E0A",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 35,
+   "meanings": [
+    "above",
+    "up"
+   ],
+   "onReadings": [
+    "ジョウ",
+    "ショウ",
+    "シャン"
+   ],
+   "kunReadings": [
+    "うえ",
+    "-うえ",
+    "うわ-",
+    "かみ",
+    "あ.げる",
+    "-あ.げる",
+    "あ.がる",
+    "-あ.がる",
+    "あ.がり",
+    "-あ.がり",
+    "のぼ.る",
+    "のぼ.り",
+    "のぼ.せる",
+    "のぼ.す",
+    "たてまつ.る"
+   ]
+  },
+  "kd_98df": {
+   "literal": "食",
+   "codepoint": "U+98DF",
+   "strokeCount": 9,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 328,
+   "meanings": [
+    "eat",
+    "food"
+   ],
+   "onReadings": [
+    "ショク",
+    "ジキ"
+   ],
+   "kunReadings": [
+    "く.う",
+    "く.らう",
+    "た.べる",
+    "は.む"
+   ]
+  },
+  "kd_65b0": {
+   "literal": "新",
+   "codepoint": "U+65B0",
+   "strokeCount": 13,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 51,
+   "meanings": [
+    "new"
+   ],
+   "onReadings": [
+    "シン"
+   ],
+   "kunReadings": [
+    "あたら.しい",
+    "あら.た",
+    "あら-",
+    "にい-"
+   ]
+  },
+  "kd_4eba": {
+   "literal": "人",
+   "codepoint": "U+4EBA",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 5,
+   "meanings": [
+    "person"
+   ],
+   "onReadings": [
+    "ジン",
+    "ニン"
+   ],
+   "kunReadings": [
+    "ひと",
+    "-り",
+    "-と"
+   ]
+  },
+  "kd_6c34": {
+   "literal": "水",
+   "codepoint": "U+6C34",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 223,
+   "meanings": [
+    "water"
+   ],
+   "onReadings": [
+    "スイ"
+   ],
+   "kunReadings": [
+    "みず",
+    "みず-"
+   ]
+  },
+  "kd_751f": {
+   "literal": "生",
+   "codepoint": "U+751F",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 29,
+   "meanings": [
+    "life",
+    "genuine",
+    "birth"
+   ],
+   "onReadings": [
+    "セイ",
+    "ショウ"
+   ],
+   "kunReadings": [
+    "い.きる",
+    "い.かす",
+    "い.ける",
+    "う.まれる",
+    "うま.れる",
+    "う.まれ",
+    "うまれ",
+    "う.む",
+    "お.う",
+    "は.える",
+    "は.やす",
+    "き",
+    "なま",
+    "なま-",
+    "な.る",
+    "な.す",
+    "む.す",
+    "-う"
+   ]
+  },
+  "kd_897f": {
+   "literal": "西",
+   "codepoint": "U+897F",
+   "strokeCount": 6,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 259,
+   "meanings": [
+    "west",
+    "Spain"
+   ],
+   "onReadings": [
+    "セイ",
+    "サイ",
+    "ス"
+   ],
+   "kunReadings": [
+    "にし"
+   ]
+  },
+  "kd_5148": {
+   "literal": "先",
+   "codepoint": "U+5148",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 173,
+   "meanings": [
+    "before",
+    "ahead",
+    "previous",
+    "future",
+    "precedence"
+   ],
+   "onReadings": [
+    "セン"
+   ],
+   "kunReadings": [
+    "さき",
+    "ま.ず"
+   ]
+  },
+  "kd_5343": {
+   "literal": "千",
+   "codepoint": "U+5343",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 195,
+   "meanings": [
+    "thousand"
+   ],
+   "onReadings": [
+    "セン"
+   ],
+   "kunReadings": [
+    "ち"
+   ]
+  },
+  "kd_5ddd": {
+   "literal": "川",
+   "codepoint": "U+5DDD",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 181,
+   "meanings": [
+    "stream",
+    "river",
+    "river or three-stroke river radical (no. 47)"
+   ],
+   "onReadings": [
+    "セン"
+   ],
+   "kunReadings": [
+    "かわ"
+   ]
+  },
+  "kd_524d": {
+   "literal": "前",
+   "codepoint": "U+524D",
+   "strokeCount": 9,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 27,
+   "meanings": [
+    "in front",
+    "before"
+   ],
+   "onReadings": [
+    "ゼン"
+   ],
+   "kunReadings": [
+    "まえ",
+    "-まえ"
+   ]
+  },
+  "kd_8db3": {
+   "literal": "足",
+   "codepoint": "U+8DB3",
+   "strokeCount": 7,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 343,
+   "meanings": [
+    "leg",
+    "foot",
+    "be sufficient",
+    "counter for pairs of footwear"
+   ],
+   "onReadings": [
+    "ソク"
+   ],
+   "kunReadings": [
+    "あし",
+    "た.りる",
+    "た.る",
+    "た.す"
+   ]
+  },
+  "kd_591a": {
+   "literal": "多",
+   "codepoint": "U+591A",
+   "strokeCount": 6,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 139,
+   "meanings": [
+    "many",
+    "frequent",
+    "much"
+   ],
+   "onReadings": [
+    "タ"
+   ],
+   "kunReadings": [
+    "おお.い",
+    "まさ.に",
+    "まさ.る"
+   ]
+  },
+  "kd_5927": {
+   "literal": "大",
+   "codepoint": "U+5927",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 7,
+   "meanings": [
+    "large",
+    "big"
+   ],
+   "onReadings": [
+    "ダイ",
+    "タイ"
+   ],
+   "kunReadings": [
+    "おお-",
+    "おお.きい",
+    "-おお.いに"
+   ]
+  },
+  "kd_7537": {
+   "literal": "男",
+   "codepoint": "U+7537",
+   "strokeCount": 7,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 240,
+   "meanings": [
+    "male"
+   ],
+   "onReadings": [
+    "ダン",
+    "ナン"
+   ],
+   "kunReadings": [
+    "おとこ",
+    "お"
+   ]
+  },
+  "kd_4e2d": {
+   "literal": "中",
+   "codepoint": "U+4E2D",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 11,
+   "meanings": [
+    "in",
+    "inside",
+    "middle",
+    "mean",
+    "center"
+   ],
+   "onReadings": [
+    "チュウ"
+   ],
+   "kunReadings": [
+    "なか",
+    "うち",
+    "あた.る"
+   ]
+  },
+  "kd_9577": {
+   "literal": "長",
+   "codepoint": "U+9577",
+   "strokeCount": 8,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 12,
+   "meanings": [
+    "long",
+    "leader",
+    "superior",
+    "senior"
+   ],
+   "onReadings": [
+    "チョウ"
+   ],
+   "kunReadings": [
+    "なが.い",
+    "おさ"
+   ]
+  },
+  "kd_5929": {
+   "literal": "天",
+   "codepoint": "U+5929",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 512,
+   "meanings": [
+    "heavens",
+    "sky",
+    "imperial"
+   ],
+   "onReadings": [
+    "テン"
+   ],
+   "kunReadings": [
+    "あまつ",
+    "あめ",
+    "あま-"
+   ]
+  },
+  "kd_5e97": {
+   "literal": "店",
+   "codepoint": "U+5E97",
+   "strokeCount": 8,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 378,
+   "meanings": [
+    "store",
+    "shop"
+   ],
+   "onReadings": [
+    "テン"
+   ],
+   "kunReadings": [
+    "みせ",
+    "たな"
+   ]
+  },
+  "kd_96fb": {
+   "literal": "電",
+   "codepoint": "U+96FB",
+   "strokeCount": 13,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 268,
+   "meanings": [
+    "electricity"
+   ],
+   "onReadings": [
+    "デン"
+   ],
+   "kunReadings": []
+  },
+  "kd_571f": {
+   "literal": "土",
+   "codepoint": "U+571F",
+   "strokeCount": 3,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 307,
+   "meanings": [
+    "soil",
+    "earth",
+    "ground",
+    "Turkey"
+   ],
+   "onReadings": [
+    "ド",
+    "ト"
+   ],
+   "kunReadings": [
+    "つち"
+   ]
+  },
+  "kd_6771": {
+   "literal": "東",
+   "codepoint": "U+6771",
+   "strokeCount": 8,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 37,
+   "meanings": [
+    "east"
+   ],
+   "onReadings": [
+    "トウ"
+   ],
+   "kunReadings": [
+    "ひがし"
+   ]
+  },
+  "kd_9053": {
+   "literal": "道",
+   "codepoint": "U+9053",
+   "strokeCount": 12,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 207,
+   "meanings": [
+    "road-way",
+    "street",
+    "district",
+    "journey",
+    "course",
+    "moral",
+    "teachings"
+   ],
+   "onReadings": [
+    "ドウ",
+    "トウ"
+   ],
+   "kunReadings": [
+    "みち",
+    "いう"
+   ]
+  },
+  "kd_8aad": {
+   "literal": "読",
+   "codepoint": "U+8AAD",
+   "strokeCount": 14,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 618,
+   "meanings": [
+    "read"
+   ],
+   "onReadings": [
+    "ドク",
+    "トク",
+    "トウ"
+   ],
+   "kunReadings": [
+    "よ.む",
+    "-よ.み"
+   ]
+  },
+  "kd_5357": {
+   "literal": "南",
+   "codepoint": "U+5357",
+   "strokeCount": 9,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 341,
+   "meanings": [
+    "south"
+   ],
+   "onReadings": [
+    "ナン",
+    "ナ"
+   ],
+   "kunReadings": [
+    "みなみ"
+   ]
+  },
+  "kd_4e8c": {
+   "literal": "二",
+   "codepoint": "U+4E8C",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 9,
+   "meanings": [
+    "two",
+    "two radical (no. 7)"
+   ],
+   "onReadings": [
+    "ニ",
+    "ジ"
+   ],
+   "kunReadings": [
+    "ふた",
+    "ふた.つ",
+    "ふたたび"
+   ]
+  },
+  "kd_65e5": {
+   "literal": "日",
+   "codepoint": "U+65E5",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 1,
+   "meanings": [
+    "day",
+    "sun",
+    "Japan",
+    "counter for days"
+   ],
+   "onReadings": [
+    "ニチ",
+    "ジツ"
+   ],
+   "kunReadings": [
+    "ひ",
+    "-び",
+    "-か"
+   ]
+  },
+  "kd_5165": {
+   "literal": "入",
+   "codepoint": "U+5165",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 56,
+   "meanings": [
+    "enter",
+    "insert"
+   ],
+   "onReadings": [
+    "ニュウ",
+    "ジュ"
+   ],
+   "kunReadings": [
+    "い.る",
+    "-い.る",
+    "-い.り",
+    "い.れる",
+    "-い.れ",
+    "はい.る"
+   ]
+  },
+  "kd_5e74": {
+   "literal": "年",
+   "codepoint": "U+5E74",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 6,
+   "meanings": [
+    "year",
+    "counter for years"
+   ],
+   "onReadings": [
+    "ネン"
+   ],
+   "kunReadings": [
+    "とし"
+   ]
+  },
+  "kd_8cb7": {
+   "literal": "買",
+   "codepoint": "U+8CB7",
+   "strokeCount": 12,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 520,
+   "meanings": [
+    "buy"
+   ],
+   "onReadings": [
+    "バイ"
+   ],
+   "kunReadings": [
+    "か.う"
+   ]
+  },
+  "kd_767d": {
+   "literal": "白",
+   "codepoint": "U+767D",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 483,
+   "meanings": [
+    "white"
+   ],
+   "onReadings": [
+    "ハク",
+    "ビャク"
+   ],
+   "kunReadings": [
+    "しろ",
+    "しら-",
+    "しろ.い"
+   ]
+  },
+  "kd_516b": {
+   "literal": "八",
+   "codepoint": "U+516B",
+   "strokeCount": 2,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 92,
+   "meanings": [
+    "eight",
+    "eight radical (no. 12)"
+   ],
+   "onReadings": [
+    "ハチ",
+    "ハツ"
+   ],
+   "kunReadings": [
+    "や",
+    "や.つ",
+    "やっ.つ",
+    "よう"
+   ]
+  },
+  "kd_534a": {
+   "literal": "半",
+   "codepoint": "U+534A",
+   "strokeCount": 5,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 224,
+   "meanings": [
+    "half",
+    "middle",
+    "odd number",
+    "semi-",
+    "part-"
+   ],
+   "onReadings": [
+    "ハン"
+   ],
+   "kunReadings": [
+    "なか.ば"
+   ]
+  },
+  "kd_767e": {
+   "literal": "百",
+   "codepoint": "U+767E",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 163,
+   "meanings": [
+    "hundred"
+   ],
+   "onReadings": [
+    "ヒャク",
+    "ビャク"
+   ],
+   "kunReadings": [
+    "もも"
+   ]
+  },
+  "kd_7236": {
+   "literal": "父",
+   "codepoint": "U+7236",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 646,
+   "meanings": [
+    "father"
+   ],
+   "onReadings": [
+    "フ"
+   ],
+   "kunReadings": [
+    "ちち"
+   ]
+  },
+  "kd_5206": {
+   "literal": "分",
+   "codepoint": "U+5206",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 24,
+   "meanings": [
+    "part",
+    "minute of time",
+    "segment",
+    "share",
+    "degree",
+    "one's lot",
+    "duty",
+    "understand",
+    "know",
+    "rate",
+    "1%",
+    "chances",
+    "shaku/100"
+   ],
+   "onReadings": [
+    "ブン",
+    "フン",
+    "ブ"
+   ],
+   "kunReadings": [
+    "わ.ける",
+    "わ.け",
+    "わ.かれる",
+    "わ.かる",
+    "わ.かつ"
+   ]
+  },
+  "kd_805e": {
+   "literal": "聞",
+   "codepoint": "U+805E",
+   "strokeCount": 14,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 319,
+   "meanings": [
+    "hear",
+    "ask",
+    "listen"
+   ],
+   "onReadings": [
+    "ブン",
+    "モン"
+   ],
+   "kunReadings": [
+    "き.く",
+    "き.こえる"
+   ]
+  },
+  "kd_6bcd": {
+   "literal": "母",
+   "codepoint": "U+6BCD",
+   "strokeCount": 5,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 570,
+   "meanings": [
+    "mother"
+   ],
+   "onReadings": [
+    "ボ"
+   ],
+   "kunReadings": [
+    "はは",
+    "も"
+   ]
+  },
+  "kd_5317": {
+   "literal": "北",
+   "codepoint": "U+5317",
+   "strokeCount": 5,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 153,
+   "meanings": [
+    "north"
+   ],
+   "onReadings": [
+    "ホク"
+   ],
+   "kunReadings": [
+    "きた"
+   ]
+  },
+  "kd_672c": {
+   "literal": "本",
+   "codepoint": "U+672C",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 10,
+   "meanings": [
+    "book",
+    "present",
+    "main",
+    "origin",
+    "true",
+    "real",
+    "counter for long cylindrical things"
+   ],
+   "onReadings": [
+    "ホン"
+   ],
+   "kunReadings": [
+    "もと"
+   ]
+  },
+  "kd_6bce": {
+   "literal": "毎",
+   "codepoint": "U+6BCE",
+   "strokeCount": 6,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 436,
+   "meanings": [
+    "every"
+   ],
+   "onReadings": [
+    "マイ"
+   ],
+   "kunReadings": [
+    "ごと",
+    "-ごと.に"
+   ]
+  },
+  "kd_4e07": {
+   "literal": "万",
+   "codepoint": "U+4E07",
+   "strokeCount": 3,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 375,
+   "meanings": [
+    "ten thousand",
+    "10,000"
+   ],
+   "onReadings": [
+    "マン",
+    "バン"
+   ],
+   "kunReadings": [
+    "よろず"
+   ]
+  },
+  "kd_540d": {
+   "literal": "名",
+   "codepoint": "U+540D",
+   "strokeCount": 6,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 177,
+   "meanings": [
+    "name",
+    "noted",
+    "distinguished",
+    "reputation"
+   ],
+   "onReadings": [
+    "メイ",
+    "ミョウ"
+   ],
+   "kunReadings": [
+    "な",
+    "-な"
+   ]
+  },
+  "kd_6728": {
+   "literal": "木",
+   "codepoint": "U+6728",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 317,
+   "meanings": [
+    "tree",
+    "wood"
+   ],
+   "onReadings": [
+    "ボク",
+    "モク"
+   ],
+   "kunReadings": [
+    "き",
+    "こ-"
+   ]
+  },
+  "kd_76ee": {
+   "literal": "目",
+   "codepoint": "U+76EE",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 76,
+   "meanings": [
+    "eye",
+    "class",
+    "look",
+    "insight",
+    "experience",
+    "care",
+    "favor"
+   ],
+   "onReadings": [
+    "モク",
+    "ボク"
+   ],
+   "kunReadings": [
+    "め",
+    "-め",
+    "ま-"
+   ]
+  },
+  "kd_53cb": {
+   "literal": "友",
+   "codepoint": "U+53CB",
+   "strokeCount": 4,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 622,
+   "meanings": [
+    "friend"
+   ],
+   "onReadings": [
+    "ユウ"
+   ],
+   "kunReadings": [
+    "とも"
+   ]
+  },
+  "kd_6765": {
+   "literal": "来",
+   "codepoint": "U+6765",
+   "strokeCount": 7,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 102,
+   "meanings": [
+    "come",
+    "due",
+    "next",
+    "cause",
+    "become"
+   ],
+   "onReadings": [
+    "ライ",
+    "タイ"
+   ],
+   "kunReadings": [
+    "く.る",
+    "きた.る",
+    "きた.す",
+    "き.たす",
+    "き.たる",
+    "き",
+    "こ"
+   ]
+  },
+  "kd_7acb": {
+   "literal": "立",
+   "codepoint": "U+7ACB",
+   "strokeCount": 5,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 58,
+   "meanings": [
+    "stand up",
+    "rise",
+    "set up",
+    "erect"
+   ],
+   "onReadings": [
+    "リツ",
+    "リュウ",
+    "リットル"
+   ],
+   "kunReadings": [
+    "た.つ",
+    "-た.つ",
+    "た.ち-",
+    "た.てる",
+    "-た.てる",
+    "た.て-",
+    "たて-",
+    "-た.て",
+    "-だ.て",
+    "-だ.てる"
+   ]
+  },
+  "kd_516d": {
+   "literal": "六",
+   "codepoint": "U+516D",
+   "strokeCount": 4,
+   "grade": 1,
+   "jlptOld": 4,
+   "freq": 93,
+   "meanings": [
+    "six"
+   ],
+   "onReadings": [
+    "ロク",
+    "リク"
+   ],
+   "kunReadings": [
+    "む",
+    "む.つ",
+    "むっ.つ",
+    "むい"
+   ]
+  },
+  "kd_8a71": {
+   "literal": "話",
+   "codepoint": "U+8A71",
+   "strokeCount": 13,
+   "grade": 2,
+   "jlptOld": 4,
+   "freq": 134,
+   "meanings": [
+    "tale",
+    "talk"
+   ],
+   "onReadings": [
+    "ワ"
+   ],
+   "kunReadings": [
+    "はな.す",
+    "はなし"
+   ]
+  }
+ }
+}
